@@ -1,0 +1,454 @@
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<lastmod>2013-04-08T22:25:00+00:00</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/sitemap.xml</loc>
+<lastmod>2013-04-04T20:35:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/sitemap.txt</loc>
+<lastmod>2013-04-04T20:35:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/lifestyle</loc>
+<lastmod>2013-04-06T01:20:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/informations</loc>
+<lastmod>2013-04-09T02:55:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/parcours</loc>
+<lastmod>2013-04-04T20:35:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/professionnel</loc>
+<lastmod>2013-04-09T02:55:00+00:00</lastmod>
+<changefreq>Daily</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/sport</loc>
+<lastmod>2013-04-09T02:30:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/informatique</loc>
+<lastmod>2013-04-09T02:55:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/etats-unis</loc>
+<lastmod>2013-04-09T02:55:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+
+<url>
+<loc>http://www.damienchiboub.fr/images</loc>
+<lastmod>2013-03-22T16:00:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/videos</loc>
+<lastmod>2013-04-09T02:35:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/blog</loc>
+<lastmod>2013-04-09T02:55:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/liens-web</loc>
+<lastmod>2013-04-09T02:55:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/contact</loc>
+<lastmod>2013-04-11T03:45:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/about</loc>
+<lastmod>2013-04-09T03:15:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+
+<url>
+<loc>http://www.damienchiboub.fr/logs</loc>
+<lastmod>2013-04-10T16:45:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/sitemap.php</loc>
+<lastmod>2013-04-09T02:35:00+00:00</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/500</loc>
+<lastmod>2013-04-04T20:35:00+00:00</lastmod>
+<changefreq>Monthly</changefreq>
+<priority>1</priority>
+</url>
+
+
+<url>
+<loc>http://www.damienchiboub.fr/404</loc>
+<lastmod>2013-04-04T20:35:00+00:00</lastmod>
+<changefreq>Monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/403</loc>
+<lastmod>2013-04-04T20:35:00+00:00</lastmod>
+<changefreq>Monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr/lifestyle#Autre</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/section-lifestyle_Damienchiboub.png</image:loc>
+<image:title>Damien Chiboub</image:title>
+<image:caption>Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/section-images.png</image:loc>
+<image:title>Section image du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Section Images du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/github_favicon.png</image:loc>
+<image:title>Favicon Github du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Github du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/twitter_favicon.png</image:loc>
+<image:title>Favicon Twitter du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Twitter du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/gravatar_favicon.png</image:loc>
+<image:title>Favicon Gravatar du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Gravatar du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/worketer_favicon.png</image:loc>
+<image:title>Favicon Worketer du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Worketer du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/instagram_favicon.png</image:loc>
+<image:title>Favicon instagram du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon instagram du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/facebook_favicon.png</image:loc>
+<image:title>Favicon Facebook du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Facebook du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/pinterest_favicon.png</image:loc>
+<image:title>Favicon Pinterest du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Pinterest du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/sensiolabs_favicon.png</image:loc>
+<image:title>Favicon SensioLabs du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon SensioLabs du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/viadeo_favicon.png</image:loc>
+<image:title>Favicon Viadeo du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Viadeo du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/google-plus_favicon.png</image:loc>
+<image:title>Favicon Google Plus du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Google Plus du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/linkedin_favicon.png</image:loc>
+<image:title>Favicon Linkedin du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Linkedin du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/linkedin.com.png</image:loc>
+<image:title>Image Linkedin du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Linkedin du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/plus.google.com.png</image:loc>
+<image:title>Image Plus.google.com du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Plus.google.com du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/viadeo.com.png</image:loc>
+<image:title>Image Viadeo du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Viadeo du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/sensiolabs.com.png</image:loc>
+<image:title>Image Sensiolabs du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Sensiolabs du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/github.com.png</image:loc>
+<image:title>Image Github du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Github du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/twitter.com.png</image:loc>
+<image:title>Image Twitter du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Twitter du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/gravatar.com.png</image:loc>
+<image:title>Image Gravatar du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Gravatar du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/facebook.com.png</image:loc>
+<image:title>Image Facebook du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Facebook du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/instagram.com.png</image:loc>
+<image:title>Image Instagram du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Instagram du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/worketer.com.png</image:loc>
+<image:title>Image Worketer du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Worketer du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/pinterest.com.png</image:loc>
+<image:title>Image Pinterest du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Pinterest du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/section-videos.jpg</image:loc>
+<image:title>Section videos du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Section Videos du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/damienchiboub.qr.png</image:loc>
+<image:title>QRCode de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>QRCode du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/contact-form.png</image:loc>
+<image:title>Image de code source php du formulaire de contact de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image issue du code source du formulaire de contact Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/section-lifestyle_damien-chiboub-cooking.jpg</image:loc>
+<image:title>Cooking Section lifestyle du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Cooking Section lifestyle du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/section-lifestyle_damien-chiboub.jpg</image:loc>
+<image:title>Section lifestyle du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Section lifestyle du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/projet-sport-damien-chiboub.jpg</image:loc>
+<image:title>Section Projets sport du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Section Projets sport du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/nav-menu.png</image:loc>
+<image:title>Nav-Menu du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Nav-Menu du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/section-lifestyle_damien-chiboub-burger.jpg</image:loc>
+<image:title>Burger Section lifestyle du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Burger Section lifestyle du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/Octocat.png</image:loc>
+<image:title>Image Github du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Github de la partie About du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+
+</urlset>	
