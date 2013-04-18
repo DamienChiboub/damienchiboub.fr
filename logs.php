@@ -150,11 +150,54 @@ Logs
 <ul class="nav nav-tabs">
    <li class="active"><a href="#1" data-toggle="tab">1</a></li>
     <li><a href="#2" data-toggle="tab">2</a></li>       
+    <li><a href="#3" data-toggle="tab">3</a></li>       
 </ul>
-
 
                 <div class="tab-content">
                 <div class="tab-pane active" id="1">
+                <p>
+              <table class="table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Date</th>
+                  <th>Page</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody> 
+                  <tr class="">
+                   <tr class="">
+                  <td>25</td>
+                  <td>09-04-2013</td>
+                  <td>Global > <a href="#25-NavMenu" role="button" data-toggle="modal">NavMenu</a>
+
+<!-- Modal -->
+<div id="25-NavMenu" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="25-NavMenu" aria-hidden="true">
+  <div class="modal-header">
+    <h3 id="25-NavMenu">Modification globale du site</h3>
+  </div>
+  <div class="modal-body">
+     <p> Ajout d'un menu de navigation</p>
+<br><img src="img/nav-menu.png"/><br>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">x</button>
+  </div>
+</div>
+</td>
+                  <td>+Edition</td>
+
+
+                </tr> 
+
+       </tbody>
+            </table>
+                 </p>
+                  </div>
+
+
+                <div class="tab-pane" id="2">
                   <p>
               <table class="table">
               <thead>
@@ -169,41 +212,19 @@ Logs
 
               <tbody> 
                   <tr class="">
-                  <tr class="">
-                  <td>24</td>
-                  <td>09-04-2013</td>
-                  <td>Global > <a href="#24-NavMenu" role="button" data-toggle="modal">NavMenu</a>
-
-<!-- Modal -->
-<div id="24-NavMenu" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="24-NavMenu" aria-hidden="true">
-  <div class="modal-header">
-    <h3 id="24-NavMenu">Modification globale du site</h3>
-  </div>
-  <div class="modal-body">
-     <p> Ajout d'un menu de navigation</p>
-<br><img src="img/nav-menu.png"/><br>
-  </div>
-  <div class="modal-footer">
-    <button class="btn" data-dismiss="modal" aria-hidden="true">x</button>
-  </div>
-</div>
-</td>
-                  <td>+Edition</td>
-
-                  <tr class="">
                   <tr class="info">
-                  <td>23</td>
+                  <td>24</td>
                   <td>22-03-2013</td>
                   <td>Footer ><a href="http://www.damienchiboub.fr/logs#footer"> Web-Links</a></td>
                   <td>+Ajout</td>
 
                   <tr class="info">
-                  <td>22</td>
+                  <td>23</td>
                   <td>19-03-2013</td>
-                  <td><a href="http://www.damienchiboub.fr/contact"><a href="#22-ContactForm" role="button" data-toggle="modal">Contact</a>
+                  <td><a href="http://www.damienchiboub.fr/contact"><a href="#23-ContactForm" role="button" data-toggle="modal">Contact</a>
 
 <!-- Modal -->
-<div id="22-ContactForm" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="MetaUpdatelabel" aria-hidden="true">
+<div id="23-ContactForm" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="MetaUpdatelabel" aria-hidden="true">
   <div class="modal-header">
     <h3 id="MetaUpdatelabel">Formulaire page contact</h3>
   </div>
@@ -220,87 +241,64 @@ Logs
                   <td>+Ajout</td>
                   <tr class="">
                   <tr class="success">
-                  <td>21</td>
+                  <td>22</td>
                   <td>13-03-2013</td>
                   <td>2.0 ><a href="http://www.damienchiboub.fr/images"> Images</a></td>
                   <td>+Update</td>
                   <tr class="">
-                  <td>20</td>
+                  <td>21</td>
                   <td>04-03-2013</td>
                   <td>2.0 ><a href="http://www.damienchiboub.fr/videos"> Videos</a></td>
                   <td>+Edition</td>
                    <tr class="">
                   <tr class="success">
-                  <td>19</td>
+                  <td>20</td>
                   <td>18-02-2013</td>
                   <td><a href="http://www.damienchiboub.fr">Index</a></td>
                   <td>+Udpate</td>
                    <tr class="">
-                  <td>18</td>
+                  <td>19</td>
                   <td>18-02-2013</td>
                   <td>Projets > <a href="http://www.damienchiboub.fr/sport">Sport</a></td>
                   <td>+Edition</td>
                   <tr class="">
-                  <td>17</td>
+                  <td>18</td>
                   <td>18-02-2013</td>
                   <td>Projets > <a href="http://www.damienchiboub.fr/informatique">Informatique</a></td>
                   <td>+Edition</td>
                   <tr class="success">
-                  <td>16</td>
+                  <td>17</td>
                   <td>18-02-2013</td>
                   <td><a href="http://www.damienchiboub.fr/lifestyle">Lifestyle</a></td>
                   <td>+Update</td>
                    <tr class="success">
-                  <td>15</td>
+                  <td>16</td>
                   <td>28-12-2012</td>
                   <td><a href="http://www.damienchiboub.fr/informations">Informations</a></td>
                   <td>+Update</td>
                 </tr>
                   <tr class="success">
-                  <td>14</td>
+                  <td>15</td>
                   <td>28-12-2012</td>
                   <td>Footer ><a href="http://www.damienchiboub.fr/logs"> Logs</a></td>
                   <td>+Update</td>
                 </tr>
                   <tr class="success">
-                  <td>13</td>
+                  <td>14</td>
                   <td>28-12-2012</td>
                   <td><a href="http://www.damienchiboub.fr">Index</a></td>
                   <td>+Update</td>
                 </tr>
-
-
-
-       </tbody>
-            </table>
-                 </p>
-                </div>
-
-
-
-                <div class="tab-pane" id="2">
-                <p>
-              <table class="table">
-              <thead>
-                <tr>
-                  <th>#</th>
-                  <th>Date</th>
-                  <th>Page</th>
-                  <th>Action</th>
-                </tr>
-              </thead>
-              <tbody> 
-
-
-               <tr class="success">
-                  <td>12</td>
+ 
+<tr class="success">
+                  <td>13</td>
                   <td>19-12-2012</td>
                   <td>
 
-Global > <a href="#12-MetaUpdate" role="button" data-toggle="modal">Meta-Keyword</a>
+Global > <a href="#13-MetaUpdate" role="button" data-toggle="modal">Meta-Keyword</a>
  
 <!-- Modal -->
-<div id="12-MetaUpdate" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="12MetaUpdate" aria-hidden="true">
+<div id="13-MetaUpdate" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="12MetaUpdate" aria-hidden="true">
   <div class="modal-header">
     <h3 id="12MetaUpdate">Balise Meta Keyword</h3>
   </div>
@@ -318,21 +316,45 @@ Global > <a href="#12-MetaUpdate" role="button" data-toggle="modal">Meta-Keyword
 </td>
                   <td>+Update</td>
                 </tr> 
+              
+
+
+       </tbody>
+            </table>
+                 </p>
+                </div>
+
+
+
+                <div class="tab-pane" id="3">
+                <p>
+              <table class="table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Date</th>
+                  <th>Page</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody> 
+
+
                <tr>
-                  <td>11</td>
+                  <td>12</td>
                   <td>19-12-2012</td>
                   <td>Footer ><a href="http://www.damienchiboub.fr/about"> A propos</a></td>
                   <td>+Edition</td>
                 </tr> 
                    <tr class="success">
-                  <td>10</td>
+                  <td>11</td>
                   <td>19-12-2012</td>
                   <td>
 
-Global > <a href="#10-MetaUpdate" role="button" data-toggle="modal">Meta-Description</a>
+Global > <a href="#11-MetaUpdate" role="button" data-toggle="modal">Meta-Description</a>
  
 <!-- Modal -->
-<div id="10-MetaUpdate" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="MetaUpdatelabel" aria-hidden="true">
+<div id="11-MetaUpdate" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="MetaUpdatelabel" aria-hidden="true">
   <div class="modal-header">
     <h3 id="MetaUpdatelabel">Balise Meta Description</h3>
   </div>
@@ -351,37 +373,37 @@ Global > <a href="#10-MetaUpdate" role="button" data-toggle="modal">Meta-Descrip
                   <td>+Update</td>
                 </tr>
                    <tr>
-                  <td>9</td>
+                  <td>10</td>
                   <td>15-12-2012</td>
                   <td><a href="http://www.damienchiboub.fr/informations">Informations</a></td>
                   <td>+Edition</td>
                 </tr>
                   <tr class="info">
-                  <td>8</td>
+                  <td>9</td>
                   <td>14-12-2012</td>
                   <td><a href="http://www.damienchiboub.fr/informations">Informations</a></td>
                   <td>+Ajout</td>
                 </tr>
                   <tr>
-                  <td>7</td>
+                  <td>8</td>
                   <td>12-12-2012</td>
                   <td>Footer ><a href="http://www.damienchiboub.fr/logs"> Logs</a></td>
                   <td>+Edition</td>
                 </tr>
                <tr>
-                  <td>6</td>
+                  <td>7</td>
                   <td>12-12-2012</td>
                   <td>Footer ><a href="http://www.damienchiboub.fr/sitemap.php"> Sitemap</a></td>
                   <td>+Edition</td>
                 </tr>
                   <tr class="info">
-                  <td>5</td>
+                  <td>6</td>
                   <td>11-12-2012</td>
                   <td>Footer ><a href="http://www.damienchiboub.fr/about"> A propos</a></td>
                   <td>+Ajout</td>
                 </tr>
                 <tr class="info">
-                  <td>4</td>
+                  <td>5</td>
                   <td>11-12-2012</td>
                   <td>Projets ><a href="http://www.damienchiboub.fr/etats-unis"> Etats unis</a></td>
                  <td>+Ajout</td>
