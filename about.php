@@ -146,7 +146,7 @@ Outils
 <div class="accordion-inner">
 
 <p class="lead">
-Statut : Site en construction <br>
+Statut : Stand-by avant refonte <br>
 Cr&eacute;ation : 10 Novembre 2012 <br>
 Inactif : Blog, Recheche <br>
 Propri&eacute;taire : <a rel="popover" title="Damien Chiboub" data-img="img/section-lifestyle_Damienchiboub.png" data-original-title="">Damien Chiboub</a><br>
@@ -184,7 +184,7 @@ Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Des
 
 
 <div class="input-prepend">
-<a href="#MyGithubProject" onclick="window.open('https://github.com/DamienChiboub/DcWebSiteFiles', 'MyGithubProject', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://www.damienchiboub.fr/img/Octocat.png" <a href="#" id="Github-tooltip" data-original-title="My Github Project"> /></a></a>
+<a href="#MyGithubProject" onclick="window.open('https://github.com/DamienChiboub/damienchiboub.fr', 'MyGithubProject', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://www.damienchiboub.fr/img/Octocat.png" <a href="#" id="Github-tooltip" data-original-title="My Github Project"> /></a></a>
 <a href="#MyCreativeLicense" onclick="window.open('http://creativecommons.org/licenses/by-sa/3.0/fr/', 'MyCreativeLicense', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" <a href="#" id="License-tooltip" data-original-title="Creative Common License"> /></a></a><br>
 </div></input></p>
 
