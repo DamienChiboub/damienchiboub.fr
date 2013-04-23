@@ -33,7 +33,7 @@ Vous trouverez des informations sur Damien Chiboub, son parcours, sa vie, ses in
 
 <div class="alert alert-info">
   <button type="button" class="close" data-dismiss="alert">&times;</button>
-  <strong>Nouveaut&eacute;s</strong> : Flux Twitter, Instagram et formulaire de contact fonctionnels.
+  <strong>Github </strong> : Code source disponible sur <a href="https://www.github.com/" target="_blank">Github</a> @ <a href="https://www.github.com/DamienChiboub/damienchiboub.fr" target="_blank">DamienChiboub/damienchiboub.fr</a>
 </div>
 
 <div class="masthead">
