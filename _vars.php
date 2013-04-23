@@ -1,7 +1,7 @@
 <?php 
-        $metaup="2013-04-23 Tuesday 16:15:00";
+        $metaup="2013-04-23 Tuesday 19:15:00";
         $today = date("{ H:i:s : d/M/Y }");
-	$update = "{ 16:15:00 : 23/Apr/2013 }";
+	$update = "{ 19:15:00 : 23/Apr/2013 }";
 
         $worknum = Rand(1,7); 
 	switch ($worknum)
