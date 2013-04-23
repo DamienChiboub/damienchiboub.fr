@@ -170,13 +170,13 @@ Formulaire
 	CONFIGURATION
 	********************************************************************************************
 */
-// destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par une virgule
+// destinataire est votre adresse mail. Pour envoyer Ã  plusieurs Ã  la fois, sÃ©parez-les par une virgule
 $destinataire = 'contact@damienchiboub.fr';
 
 // copie ? (envoie une copie au visiteur)
 $copie = 'oui';
 
-// Action du formulaire (si votre page a des paramètres dans l'URL)
+// Action du formulaire (si votre page a des paramÃ¨tres dans l'URL)
 // si cette page est index.php?page=contact alors mettez index.php?page=contact
 // sinon, laissez vide
 $form_action = '';
@@ -214,7 +214,7 @@ $message_formulaire_invalide = "<div class='alert alert-info'>
 */
 
 /*
- * cette fonction sert à nettoyer et enregistrer un texte
+ * cette fonction sert Ã  nettoyer et enregistrer un texte
  */
 function Rec($text)
 {
@@ -229,7 +229,7 @@ function Rec($text)
 };
 
 /*
- * Cette fonction sert à vérifier la syntaxe d'un email
+ * Cette fonction sert Ã  vÃ©rifier la syntaxe d'un email
  */
 function IsEmail($email)
 {
@@ -237,22 +237,22 @@ function IsEmail($email)
 	return (($value === 0) || ($value === false)) ? false : true;
 }
 
-// formulaire envoyé, on récupère tous les champs.
+// formulaire envoyÃ©, on rÃ©cupÃ¨re tous les champs.
 $nom     = (isset($_POST['nom']))     ? Rec($_POST['nom'])     : '';
 $prenom     = (isset($_POST['prenom']))     ? Rec($_POST['prenom'])     : '';
 $email   = (isset($_POST['email']))   ? Rec($_POST['email'])   : '';
 $objet   = (isset($_POST['objet']))   ? Rec($_POST['objet'])   : '';
 $message = (isset($_POST['message'])) ? Rec($_POST['message']) : '';
 
-// On va vérifier les variables et l'email ...
-$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erroné, soit il vaut l'email entré
+// On va vÃ©rifier les variables et l'email ...
+$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erronÃ©, soit il vaut l'email entrÃ©
 $err_formulaire = false; // sert pour remplir le formulaire en cas d'erreur si besoin
 
 if (isset($_POST['envoi']))
 {
 	if (($nom != '') && ($prenom != '') && ($email != '') && ($objet != '') && ($message != ''))
 	{
-		// les 5 variables sont remplies, on génère puis envoie le mail
+		// les 5 variables sont remplies, on gÃ©nÃ¨re puis envoie le mail
 		$headers  = 'From:'.$nom.' <'.$email.'>' . "\r\n";
 		//$headers .= 'Reply-To: '.$email. "\r\n" ;
 		//$headers .= 'X-Mailer:PHP/'.phpversion();
@@ -267,7 +267,7 @@ if (isset($_POST['envoi']))
 			$cible = $destinataire;
 		};
 
-		// Remplacement de certains caractères spéciaux
+		// Remplacement de certains caractÃ¨res spÃ©ciaux
 		$message = str_replace("&#039;","'",$message);
 		$message = str_replace("&#8217;","'",$message);
 		$message = str_replace("&quot;",'"',$message);
@@ -303,17 +303,17 @@ if (($err_formulaire) || (!isset($_POST['envoi'])))
 <br>
 
 <div class="input-prepend">
-  <span class="add-on"><a href="#" id="nom-tooltip" data-original-title="Nom"><i class="icon-asterisk"></i></a></span>
+  <span class="add-on"><a href="#Form" id="nom-tooltip" data-original-title="Nom"><i class="icon-asterisk"></i></a></span>
   <input class="span3" type="text" id="nom" maxlength="15" name="nom" value="'.stripslashes($nom).'" tabindex="1" type="text" placeholder="Nom">
 </div></input></p>
 
 <div class="input-prepend">
-  <span class="add-on"><a href="#" id="prenom-tooltip" data-original-title="Prenom"><i class="icon-asterisk"></i></a></span>
+  <span class="add-on"><a href="#Form" id="prenom-tooltip" data-original-title="Prenom"><i class="icon-asterisk"></i></a></span>
   <input class="span3" type="text" id="prenom" maxlength="15" name="prenom" value="'.stripslashes($prenom).'" tabindex="2" type="text" placeholder="Prenom">
 </div></input></p>
 
 <div class="input-prepend">
-  <span class="add-on"><a href="#" id="email-tooltip" data-original-title="email@domaine.tld"><i class="icon-envelope"></i></a></span>
+  <span class="add-on"><a href="#Form" id="email-tooltip" data-original-title="email@domaine.tld"><i class="icon-envelope"></i></a></span>
   <input class="span3" type="text" id="email" maxlength="35" name="email" value="'.stripslashes($email).'" tabindex="3" id="prependedInput" type="text" placeholder="email@domaine.tld">
 </div></input></p>
 
