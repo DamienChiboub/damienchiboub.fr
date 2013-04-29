@@ -6,7 +6,7 @@
         $worknum = Rand(1,7); 
 	switch ($worknum)
 	{
-			
+		
 		case 1:
 			$work= " se sert de Github";
 			break;
