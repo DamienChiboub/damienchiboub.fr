@@ -222,7 +222,7 @@ Recherche
 <div class="accordion-inner span12">
 <br>
 <p class="lead"><button class="btn btn-link"><a href="http://www.reverse-engineering.fr" target="_blank">reverse-engineering.fr</button></a>
-<button class="btn" id="mybtn" data-loading-text="Check Now">Unavailable</button>
+<button class="btn" id="mybtn" data-loading-text="Check">Unset</button>
 </p>
 
 
