@@ -146,7 +146,7 @@ Entreprises
 <p class="lead">
 
 
-<div class="tabbable"> 
+<div class="tabbable tabs-left"> 
 <!-- Only required for left/right tabs -->   
 <ul class="nav nav-tabs">    
 
@@ -160,15 +160,46 @@ Entreprises
 <li><a href="#BAT" data-toggle="tab">BAT</a></li>
 </ul>
 <div class="tab-content">
-<div class="tab-pane active" id="LeRss">       <p class="lead">
-Le R&eacute;seau Sant&eacute; Social</p>     </div>
-<div class="tab-pane" id="Dynetcom">       <p class="lead">Dynetcom Orange</p>     </div>   
-<div class="tab-pane" id="Tupperware">       <p class="lead">Tupperware France</p>     </div>   
-<div class="tab-pane" id="Ixin">       <p class="lead">Ixin</p>     </div>   
-<div class="tab-pane" id="Voluntis">       <p class="lead">Voluntis</p>     </div>   
-<div class="tab-pane" id="Fnac">       <p class="lead">Fnac</p>     </div>   
-<div class="tab-pane" id="T2AConseil">       <p class="lead">T2A Conseil</p>     </div>   
-<div class="tab-pane" id="BAT">       <p class="lead">British American Tobacco</p>     </div>   
+<div class="tab-pane active" id="LeRss">
+<p class="lead">Le R&eacute;seau Sant&eacute; Social<br><br> Fournisseur d'acc&egrave;s pour professionnels de sant&eacute;<br>
+Gestion des incidents ADSL/RTC<br>
+connexion, routage, escalade GAMMOT<br>
+Applicatifs m&eacute;tiers</p></div>
+<div class="tab-pane" id="Dynetcom"><p class="lead">Dynetcom Orange<br><br> Hotline 15 concessions<br>
+Equipement de filtrage<br>
+Routage Firewall checkpoint, Serveurs Antispam/Antivirus<br>
+Analyse Logs, Remont&eacute; anomalies<br></p></div>   
+
+<div class="tab-pane" id="Tupperware"><p class="lead">Tupperware France<br><br> Hotline 60 concessions<br>
+Gestion saisie logiciel commercial, backups<br>
+G&eacute;n&eacute;ration rapports depuis remont&eacute;s informations des concessions.<br>
+Assistance Sage, Office<br>
+</p></div>   
+<div class="tab-pane" id="Ixin"><p class="lead">Ixin<br><br>
+Logiciel d'optimisation de processus<br>
+Configuration depuis <a href="#Cdc-tooltip" onclick="window.open('https://fr.wikipedia.org/wiki/Cahier_des_charges', 'Cdc-tooltip', 'scrollbars=yes,width=640,height=500,left=480')" <a="" id="Cdc-tooltip" data-original-title="Cahier des charges">Cdc</a><br>
+V&eacute;rification des droits via acc&egrave;s web<br>
+Assistance utilisateurs<br></p></div>   
+<div class="tab-pane" id="Voluntis"><p class="lead">Voluntis<br><br>
+Test charge serveur <a href="#Vsts-tooltip" onclick="window.open('http://msdn.microsoft.com/fr-fr/vstudio/aa718766.aspx', 'Vsts-tooltip', 'scrollbars=yes,width=640,height=500,left=480')" <a="" id="Vsts-tooltip" data-original-title="Visual Studio Team System 2008">VSTS 2k8</a><br>
+Cr&eacute;ation de 500.000 Identit&eacute;s<br>
+Excel, Scripting en c#, Activation mails via Webmail<br>
+</p></div>   
+<div class="tab-pane" id="Fnac"><p class="lead">Fnac<br><br>
+Gestion logiciel Sav sous DOS<br>
+Plannification intervention sur site<br>
+Hotline, Support mat&eacute;riel, p&eacute;riode Noel/Soldes<br>
+</p>     </div>   
+<div class="tab-pane" id="T2AConseil"><p class="lead">T2A Conseil<br><br>
+Gestion du support fonctionnel<br>
+Mises &agrave; jours base des tarifications<br>
+Gestion du r&eacute;seau local<br>
+Int&eacute;gration d&rsquo;un serveur local d'acc&egrave;s &agrave; distance<br></p>     </div>   
+<div class="tab-pane" id="BAT"><p class="lead">British American Tobacco<br><br>
+Gestion support si&egrave;ges/terrain (100/250) users <br>
+Environnement international, gestion salles<br>
+Partages, arrivants, applicatifs, backups<br>
+Flotte Blackberry/Samsung/Laptop, VOIP alcatel Omnivista</p>     </div>   
 </div>
 </div>
 
@@ -292,6 +323,8 @@ Recherche
 <script src="js/bootstrap-typeahead.js"></script>
 
 <script> 
+$("#Cdc-tooltip").tooltip({'offset': '10', 'placement': 'top'});
+$("#Vsts-tooltip").tooltip({'offset': '10', 'placement': 'top'});
 $('#mybtn').click(function () {
         var btn = $(this)
         btn.button('loading')
