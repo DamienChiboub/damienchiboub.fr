@@ -197,7 +197,7 @@ Stages
 <p class="lead">
 
 
-<div class="tabbable"> 
+<div class="tabbable tabs-left"> 
 <!-- Only required for left/right tabs -->   
 <ul class="nav nav-tabs">    
 
@@ -211,20 +211,30 @@ Stages
 <div class="tab-content">
 
 <div class="tab-pane active" id="Telemecanique">
-<p class="lead">T&eacute;l&eacute;m&eacute;canique<br>
-Rueil Malmaison</p></div>
+<p class="lead">T&eacute;l&eacute;m&eacute;canique<br> Rueil Malmaison<br><br>
+Stage en informatique d&eacute;couverte du monde professionnel<br>
+gestion des mises &agrave; jours, support de proximit&eacute; utilisateurs<br>
+</p></div>
 <div class="tab-pane" id="Schneider">
-<p class="lead">Schneider Electric<br>
-Rueil Malmaison</p></div>   
+<p class="lead">Schneider Electric<br> Rueil Malmaison <br><br>
+Gestion hotline, support de proximit&eacute;, aide sur suite office<br>
+Mise en place d&rsquo;open space, d&eacute;ploiement<br>
+</p></div>   
 <div class="tab-pane" id="RaymondPoincare">
-<p class="lead">Hopital Raymond Poincar&eacute;<br>
-Garches</p></div>   
+<p class="lead">Hopital Raymond Poincar&eacute;<br> Garches <br><br>
+Hotline, gestion utilisateurs, support de proximit&eacute;<br>
+D&eacute;ploiement de postes, r&eacute;paration imprimantes et mat&eacute;riel
+</p></div>   
 <div class="tab-pane" id="CapGemini">      
-<p class="lead">Cap G&eacute;mini<br>
-Arche La Defense</p></div>   
+<p class="lead">Cap G&eacute;mini<br> Arche La Defense <br><br>
+Support utilisateurs de proximit&eacute;, d&eacute;ploiement d&rsquo;open spaces<br>
+Upgrades hardware (ram), surveillance parc serveurs<br>
+</p></div>  
 <div class="tab-pane" id="MairieGarches">      
-<p class="lead">Mairie de Garches
-<br><br></p></div>   
+<p class="lead">Mairie de Garches<br> Garches <br><br>
+Support de proximit&eacute;, gestion des demandes utilisateurs<br>
+Office, d&eacute;ploiement, upgrades mat&eacute;riel<br>
+</p></div>   
 
 
 
@@ -332,4 +342,4 @@ _gaq.push(['_trackPageview']);
 </script>
 
 </body>
-</html>								
+</html>									
