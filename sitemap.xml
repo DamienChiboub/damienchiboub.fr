@@ -1,7 +1,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 <url>
 <loc>http://www.damienchiboub.fr</loc>
-<lastmod>2013-04-23T16:15:00+00:00</lastmod>
+<lastmod>2013-04-29T17:20:00+00:00</lastmod>
 <changefreq>Daily</changefreq>
 <priority>1</priority>
 </url>
@@ -36,14 +36,14 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/parcours</loc>
-<lastmod>2013-04-04T20:35:00+00:00</lastmod>
+<lastmod>2013-04-29T16:45:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/professionnel</loc>
-<lastmod>2013-04-09T02:55:00+00:00</lastmod>
+<lastmod>2013-04-29T16:45:00+00:00</lastmod>
 <changefreq>Daily</changefreq>
 <priority>1</priority>
 </url>
@@ -100,7 +100,7 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/contact</loc>
-<lastmod>2013-04-23T19:15:00+00:00</lastmod>
+<lastmod>2013-04-11T03:45:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
