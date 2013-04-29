@@ -81,7 +81,7 @@
 			$b="<a href='https://www.facebook.com/damien.chiboub' target='_blank'>Facebook.com</a>";
 			break;
                 case 6:
-			$b="<a href='http://instagram.com/DamienChiboub' target='_blank'>Instagram.com</a>"
+			$b="<a href='http://instagram.com/DamienChiboub' target='_blank'>Instagram.com</a>";
 			break;
                 case 7:
 			$b="<a href='http://pinterest.com/DamienChiboub' target='_blank'>Pinterest.com</a>";
