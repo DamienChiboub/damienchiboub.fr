@@ -1,7 +1,7 @@
 <?php 
-        $metaup="2013-04-23 Tuesday 19:15:00";
+        $metaup="2013-04-29 Monday 16:45:00";
         $today = date("{ H:i:s : d/M/Y }");
-	$update = "{ 19:15:00 : 23/Apr/2013 }";
+	$update = "{ 16:45:00 : 29/Apr/2013 }";
 
         $worknum = Rand(1,7); 
 	switch ($worknum)
@@ -67,39 +67,30 @@
 			
 		case 1:
 			$b="<a href='http://fr.linkedin.com/in/damienchiboub' target='_blank'>Linkedin.com</a>"; 
-                        $weblinkpic="<img src='/img/fav/linkedin_favicon.png'>";
 			break;
 		case 2:
 			$b="<a href='http://www.viadeo.com/fr/profile/damien.chiboub' target='_blank'>Viadeo.com</a>";
-                        $weblinkpic="<img src='/img/fav/viadeo_favicon.png'>";
 			break;
 		case 3:
 			$b="<a href='https://github.com/DamienChiboub' target='_blank'>Github.com</a>";
-                        $weblinkpic="<img src='/img/fav/github_favicon.png'>";
 			break;
                 case 4:
 			$b="<a href='https://twitter.com/Damien_Chiboub' target='_blank'>Twitter.com</a>";
-                        $weblinkpic="<img src='/img/fav/twitter_favicon.png'>";
 			break;
                 case 5:
 			$b="<a href='https://www.facebook.com/damien.chiboub' target='_blank'>Facebook.com</a>";
-                        $weblinkpic="<img src='/img/fav/facebook_favicon.png'>";
 			break;
                 case 6:
-			$b="<a href='http://instagram.com/DamienChiboub' target='_blank'>Instagram.com</a>";
-                        $weblinkpic="<img src='/img/fav/instagram_favicon.png'>";
+			$b="<a href='http://instagram.com/DamienChiboub' target='_blank'>Instagram.com</a>"
 			break;
                 case 7:
 			$b="<a href='http://pinterest.com/DamienChiboub' target='_blank'>Pinterest.com</a>";
-                        $weblinkpic="<img src='/img/fav/pinterest_favicon.png'>";
 			break;
                 case 8:
 			$b="<a href='http://gravatar.com/damienchiboub' target='_blank'>Gravatar.com</a>";
-                        $weblinkpic="<img src='/img/fav/gravatar_favicon.png'>";
 			break;
                 case 9:
 			$b="<a href='https://plus.google.com/110705607218372468993' target='_blank'>Google.com</a>";
-                        $weblinkpic="<img src='/img/fav/google-plus_favicon.png'>";
 			break;
 }	
 	?>
