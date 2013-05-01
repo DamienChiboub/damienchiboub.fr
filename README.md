@@ -9,9 +9,9 @@
 
 
 <center>Licence :        <b>creative commons</b><br>
-Released Date :  23 Avril 2013 - 19h15<br>
+Released Date :  01 May 2013 - 16h00<br>
 Owner :          <a href="http://www.damienchiboub.fr/" target="_blank">Damien</a> <a href="http://www.damienchiboub.fr/" target="_blank">Chiboub</a><br>
 Contact :        contact { at } damienchiboub.fr<br> 
 </center><br><br>
 
-You can use this code, to perform yours. Think to <a href="http://jsbin.com/" target="_blank">JsBin.com</a> to <b>replay</b> it easy!
+You can use this code, to perform yours. Think to <a href="http://jsbin.com/" target="_blank">JsBin.com</a> to <b>replay</b> it easily!
