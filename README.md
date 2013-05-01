@@ -10,7 +10,7 @@
 
 <center>Licence :        <b>creative commons</b><br>
 Released Date :  01 May 2013 - 16h00<br>
-Owner :          <a href="http://www.damienchiboub.fr/" target="_blank">Damien</a> <a href="http://www.damienchiboub.fr/" target="_blank">Chiboub</a><br>
+Owner :          <a href="http://www.damienchiboub.fr/" target="_blank">DamienChiboub</a><br>
 Contact :        contact { at } damienchiboub.fr<br> 
 </center><br><br>
 
