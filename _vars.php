@@ -1,12 +1,12 @@
 <?php 
-        $metaup="2013-04-29 Monday 17:20:00";
+        $metaup="2013-05-01 Wednesday 16:00:00";
         $today = date("{ H:i:s : d/M/Y }");
-	$update = "{ 17:20:00 : 29/Apr/2013 }";
+	$update = "{ 16:00:00 : 01/May/2013 }";
 
         $worknum = Rand(1,7); 
 	switch ($worknum)
 	{
-		
+			
 		case 1:
 			$work= " se sert de Github";
 			break;
