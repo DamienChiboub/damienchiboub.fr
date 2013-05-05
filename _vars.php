@@ -1,7 +1,7 @@
 <?php 
-        $metaup="2013-05-01 Wednesday 16:00:00";
+        $metaup="2013-05-05 Sunday 23:30:00";
         $today = date("{ H:i:s : d/M/Y }");
-	$update = "{ 16:00:00 : 01/May/2013 }";
+	$update = "{ 23:30:00 : 05/May/2013 }";
 
         $worknum = Rand(1,7); 
 	switch ($worknum)
@@ -48,7 +48,7 @@
 			$a= "<a href='http://www.damienchiboub.fr'>IT</a> Support";
 			break;
 		case 5:
-			$a= "<a href='http://www.damienchiboub.fr'>Junior</a> Object-Oriented Programming Learner";
+			$a= "<a href='http://www.damienchiboub.fr'>Junior</a> POO Learner";
 			break;
 		case 6:
 			$a= "<a href='http://www.damienchiboub.fr'>Web</a> Developer";
