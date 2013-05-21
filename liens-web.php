@@ -142,21 +142,28 @@ Liens web
 <div id="Liens-web" class="accordion-body collapse">
 <div class="accordion-inner">
 
+
+
 <div class="span4"><br>
-<a href="http://fr.linkedin.com/in/damienchiboub" target="_blank" class="url"><span>Linkedin</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fwww.google.fr%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3Ddamien%2520chiboub%2520linkedin%26source%3Dweb%26cd%3D1%26cad%3Drja%26ved%3D0CCEQFjAA%26url%3Dhttp%253A%252F%252Ffr.linkedin.com%252Fpub%252Fdamien-chiboub%252F28%252Fb51%252F243%26ei%3D4IOQUKqYLY3C0AWltYD4Bw%26usg%3DAFQjCNGppM7_mFxlM-hMhZlWVjfsBrEukQ?w=180" width="180" alt="Screenshot"><br><br></a>
-<a href="http://fr.viadeo.com/fr/profile/damien.chiboub" rel="nofollow" target="_blank" class="url"><span>Viadeo</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Ffr.viadeo.com%2Ffr%2Fprofile%2Fdamien.chiboub?w=180" width="180" alt="Screenshot"><br><br></a>
-<a href="http://instagram.com/DamienChiboub" target="_blank" rel="nofollow" class="url"><span>Instagram</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Finstagram.com%2FDamienChiboub?w=180" width="180" alt="Screenshot"><br><br></a>
+<a href="http://worketer.com/DamienChiboub" rel="nofollow" target="_blank" class="url"><span>Worketer</span><br><br><img src="/img/footer/worketer.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="http://about.me/DamienChiboub" rel="nofollow" target="_blank" class="url"><span>About.me</span><br><br><img src="/img/footer/about-me.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="http://connect.sensiolabs.com/profile/dvi-" rel="nofollow" target="_blank" class="url"><span>Sensiolab</span><br><br><img src="/img/footer/sensiolab.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="https://twitter.com/Damien_Chiboub" rel="nofollow" target="_blank" class="url"><span>Twitter</span><br><br><img src="/img/footer/twitter.com.png" width="180" alt="Screenshot"><br><br></a>
+</div>
+
+
+<div class="span4"><br>
+<a href="http://fr.linkedin.com/in/damienchiboub" target="_blank" class="url"><span>Linkedin</span><br><br><img src="/img/footer/linkedin.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="http://fr.viadeo.com/fr/profile/damien.chiboub" rel="nofollow" target="_blank" class="url"><span>Viadeo</span><br><br><img src="/img/footer/viadeo.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="http://instagram.com/DamienChiboub" target="_blank" rel="nofollow" class="url"><span>Instagram</span><br><br><img src="/img/footer/instagram.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="https://plus.google.com/110705607218372468993" rel="nofollow" target="_blank" class="url"><span>Google</span><br><br><img src="/img/footer/plus.google.com.png" width="180" alt="Screenshot"><br><br></a>
 </div>
 <div class="span4"><br>
-<a href="https://github.com/DamienChiboub" target="_blank" class="url"><span>Github</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fgithub.com%2FDamienChiboub?w=180" width="180" alt="Screenshot"><br><br></a>
-<a href="https://www.facebook.com/damien.chiboub" rel="nofollow" target="_blank" class="url"><span>Facebook</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fwww.google.fr%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3Ddamien%2520chiboub%26source%3Dweb%26cd%3D15%26cad%3Drja%26ved%3D0CHYQFjAO%26url%3Dhttp%253A%252F%252Ffr-fr.facebook.com%252Fdamien.chiboub%26ei%3D1nS4UO_6E4XCswbhiYGADw%26usg%3DAFQjCNHPSRTeLoDbuYdOSSpYhUvX20hTbA?w=180" width="180" alt="Screenshot"><br><br></a>
-<a href="https://pinterest.com/DamienChiboub" rel="nofollow" target="_blank" class="url"><span>Pinterest</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fpinterest.com%2FDamienChiboub?w=180" width="180" alt="Screenshot"><br><br></a>
+<a href="https://github.com/DamienChiboub" target="_blank" class="url"><span>Github</span><br><br><img src="/img/footer/github.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="https://www.facebook.com/damien.chiboub" rel="nofollow" target="_blank" class="url"><span>Facebook</span><br><br><img src="/img/footer/facebook.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="https://pinterest.com/DamienChiboub" rel="nofollow" target="_blank" class="url"><span>Pinterest</span><br><br><img src="/img/footer/pinterest.com.png" width="180" alt="Screenshot"><br><br></a>
+<a href="https://en.gravatar.com/damienchiboub" rel="nofollow" target="_blank" class="url"><span>Gravatar</span><br><br><img src="/img/footer/gravatar.com.png" width="180" alt="Screenshot"><br><br></a>
 </div> 
-<div class="span4"><br>
-<a href="https://twitter.com/Damien_Chiboub" rel="nofollow" target="_blank" class="url"><span>Twitter</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Ftwitter.com%2FDamien_Chiboub?w=180" width="180" alt="Screenshot"><br><br></a>
-<a href="https://plus.google.com/110705607218372468993" rel="nofollow" target="_blank" class="url"><span>Google</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fwww.google.fr%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3Dgoogle%2520plus%2520damien%2520chiboub%26source%3Dweb%26cd%3D1%26cad%3Drja%26ved%3D0CCEQFjAA%26url%3Dhttps%253A%252F%252Fplus.google.com%252F110705607218372468993%26ei%3D9oSQUOOOGeO20QX9jYGADg%26usg%3DAFQjCNHP0TNwL_4os6gkZ2gYhateAkqzxg?w=180" width="180" alt="Screenshot"><br><br></a>
-<a href="https://en.gravatar.com/damienchiboub" rel="nofollow" target="_blank" class="url"><span>Gravatar</span><br><br><img src="http://s.wordpress.com/mshots/v1/http%3A%2F%2Fwww.google.fr%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3Ddamien%2520chiboub%2520gravatar%26source%3Dweb%26cd%3D4%26cad%3Drja%26ved%3D0CD4QFjAD%26url%3Dhttp%253A%252F%252Fgravatar.com%252Fdamienchiboub%26ei%3Drye4UOerF8e90QXPlIHoCg%26usg%3DAFQjCNHWZH_9mCmYht8nQdpdraJ86bMYKw?w=180" width="180" alt="Screenshot"><br><br></a>
-</div>
 
 
 
@@ -211,6 +218,7 @@ QrCode
 <a rel="popover" data-img="/img/footer/viadeo.com.png" data-original-title="Viadeo.com"<a href="http://www.viadeo.com/fr/profile/Damien.Chiboub" target="_blank"><img src="/img/fav/viadeo_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
@@ -249,4 +257,4 @@ _gaq.push(['_trackPageview']);
 </script>
 
 </body>
-</html>						
+</html>							
