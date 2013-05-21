@@ -170,13 +170,13 @@ Formulaire
 	CONFIGURATION
 	********************************************************************************************
 */
-// destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par une virgule
+// destinataire est votre adresse mail. Pour envoyer ‡ plusieurs ‡ la fois, sÈparez-les par une virgule
 $destinataire = 'contact@damienchiboub.fr';
 
 // copie ? (envoie une copie au visiteur)
 $copie = 'oui';
 
-// Action du formulaire (si votre page a des paramètres dans l'URL)
+// Action du formulaire (si votre page a des paramËtres dans l'URL)
 // si cette page est index.php?page=contact alors mettez index.php?page=contact
 // sinon, laissez vide
 $form_action = '';
@@ -214,7 +214,7 @@ $message_formulaire_invalide = "<div class='alert alert-info'>
 */
 
 /*
- * cette fonction sert à nettoyer et enregistrer un texte
+ * cette fonction sert ‡ nettoyer et enregistrer un texte
  */
 function Rec($text)
 {
@@ -229,7 +229,7 @@ function Rec($text)
 };
 
 /*
- * Cette fonction sert à vérifier la syntaxe d'un email
+ * Cette fonction sert ‡ vÈrifier la syntaxe d'un email
  */
 function IsEmail($email)
 {
@@ -237,22 +237,22 @@ function IsEmail($email)
 	return (($value === 0) || ($value === false)) ? false : true;
 }
 
-// formulaire envoyé, on récupère tous les champs.
+// formulaire envoyÈ, on rÈcupËre tous les champs.
 $nom     = (isset($_POST['nom']))     ? Rec($_POST['nom'])     : '';
 $prenom     = (isset($_POST['prenom']))     ? Rec($_POST['prenom'])     : '';
 $email   = (isset($_POST['email']))   ? Rec($_POST['email'])   : '';
 $objet   = (isset($_POST['objet']))   ? Rec($_POST['objet'])   : '';
 $message = (isset($_POST['message'])) ? Rec($_POST['message']) : '';
 
-// On va vérifier les variables et l'email ...
-$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erroné, soit il vaut l'email entré
+// On va vÈrifier les variables et l'email ...
+$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erronÈ, soit il vaut l'email entrÈ
 $err_formulaire = false; // sert pour remplir le formulaire en cas d'erreur si besoin
 
 if (isset($_POST['envoi']))
 {
 	if (($nom != '') && ($prenom != '') && ($email != '') && ($objet != '') && ($message != ''))
 	{
-		// les 5 variables sont remplies, on génère puis envoie le mail
+		// les 5 variables sont remplies, on gÈnËre puis envoie le mail
 		$headers  = 'From:'.$nom.' <'.$email.'>' . "\r\n";
 		//$headers .= 'Reply-To: '.$email. "\r\n" ;
 		//$headers .= 'X-Mailer:PHP/'.phpversion();
@@ -267,7 +267,7 @@ if (isset($_POST['envoi']))
 			$cible = $destinataire;
 		};
 
-		// Remplacement de certains caractères spéciaux
+		// Remplacement de certains caractËres spÈciaux
 		$message = str_replace("&#039;","'",$message);
 		$message = str_replace("&#8217;","'",$message);
 		$message = str_replace("&quot;",'"',$message);
@@ -361,14 +361,14 @@ Web
 
 
 <div class="span4"><br>
+<a href="http://about.me/DamienChiboub" target="_blank" class="url"><span>About.me</span><br><br>
+<img src="/img/footer/about-me.com.png" width="180" alt="Screenshot"><br><br></a>
+</div> 
+<div class="span4"><br>
 <a href="https://connect.sensiolabs.com/profile/dvi-" target="_blank" class="url">
 <span>Sensiolabs</span><br><br>
-<img src="/img/footer/sensiolabs.com.png" width="180" alt="Screenshot"><br><br></a>
+<img src="/img/footer/sensiolab.com.png" width="180" alt="Screenshot"><br><br></a>
 </div>
-<div class="span4"><br>
-<a href="https://www.worketer.com/DamienChiboub" target="_blank" class="url"><span>Worketer</span><br><br>
-<img src="/img/footer/worketer.com.png" width="180" alt="Screenshot"><br><br></a>
-</div> 
 <div class="span4"><br>
 <a href="https://twitter.com/Damien_Chiboub" target="_blank" class="url">
 <span>Twitter</span><br><br>
@@ -419,6 +419,7 @@ Web
 <a rel="popover" data-img="/img/footer/viadeo.com.png" data-original-title="Viadeo.com"<a href="http://www.viadeo.com/fr/profile/Damien.Chiboub" target="_blank"><img src="/img/fav/viadeo_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
