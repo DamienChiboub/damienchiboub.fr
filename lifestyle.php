@@ -159,7 +159,7 @@ Plaisir
 
                 <div class="tab-pane" id="Contribute">
                  <p class="lead"><center>
-<blockquote class="twitter-tweet" lang="fr"><p>En 2013 <a href="https://twitter.com/search/%23reverse">#reverse</a>-engineering.fr va revenir dans une nouvelle version,Attention à ceux qui ne #patch#corrigent pas les #vulns#failles#leaks!</p>&mdash; Damien Chiboub (@Damien_Chiboub) <a href="https://twitter.com/Damien_Chiboub/status/287255490457640960">4 janvier 2013</a></blockquote>
+<blockquote class="twitter-tweet" lang="fr"><p>En 2013 <a href="https://twitter.com/search/%23reverse">#reverse</a>-engineering.fr va revenir dans une nouvelle version,Attention â€¡ ceux qui ne #patch#corrigent pas les #vulns#failles#leaks!</p>&mdash; Damien Chiboub (@Damien_Chiboub) <a href="https://twitter.com/Damien_Chiboub/status/287255490457640960">4 janvier 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
@@ -257,6 +257,7 @@ Autre
 <a rel="popover" data-img="/img/footer/viadeo.com.png" data-original-title="Viadeo.com"<a href="http://www.viadeo.com/fr/profile/Damien.Chiboub" target="_blank"><img src="/img/fav/viadeo_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
