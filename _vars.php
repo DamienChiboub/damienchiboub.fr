@@ -1,7 +1,7 @@
 <?php 
-        $metaup="2013-05-05 Sunday 23:30:00";
+        $metaup="2013-05-20 Monday 00:10:00";
         $today = date("{ H:i:s : d/M/Y }");
-	$update = "{ 23:30:00 : 05/May/2013 }";
+	$update = "{ 00:10:00 : 20/May/2013 }";
 
         $worknum = Rand(1,7); 
 	switch ($worknum)
@@ -48,7 +48,7 @@
 			$a= "<a href='http://www.damienchiboub.fr'>IT</a> Support";
 			break;
 		case 5:
-			$a= "<a href='http://www.damienchiboub.fr'>Junior</a> POO Learner";
+			$a= "<a href='http://www.damienchiboub.fr'>Junior</a> OOP Learner";
 			break;
 		case 6:
 			$a= "<a href='http://www.damienchiboub.fr'>Web</a> Developer";
@@ -61,7 +61,7 @@
 			break;
 	}
 
-       $lienweb = Rand(1,9);
+       $lienweb = Rand(1,12);
 	switch ($lienweb)
 	{
 			
@@ -92,6 +92,16 @@
                 case 9:
 			$b="<a href='https://plus.google.com/110705607218372468993' target='_blank'>Google.com</a>";
 			break;
+                case 10:
+			$b="<a href='https://connect.sensiolabs.com/profile/dvi-' target='_blank'>Sensiolab.com</a>";
+			break;
+                case 11:
+			$b="<a href='http://about.me/DamienChiboub' target='_blank'>About.me</a>";
+			break;
+                case 12:
+			$b="<a href='http://worketer.com/DamienChiboub' target='_blank'>Worketer.com</a>";
+			break;
+
 }	
 	?>
-					
+						
