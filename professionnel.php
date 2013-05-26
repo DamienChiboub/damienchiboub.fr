@@ -168,11 +168,11 @@ Applicatifs m&eacute;tiers</p></div>
 <div class="tab-pane" id="Dynetcom"><p class="lead">Dynetcom Orange<br><br> Hotline 15 concessions<br>
 Equipement de filtrage<br>
 Routage Firewall checkpoint, Serveurs Antispam/Antivirus<br>
-Analyse Logs, Remont&eacute; anomalies<br></p></div>   
+Analyse Logs, Remont&eacute;es anomalies<br></p></div>   
 
 <div class="tab-pane" id="Tupperware"><p class="lead">Tupperware France<br><br> Hotline 60 concessions<br>
 Gestion saisie logiciel commercial, backups<br>
-G&eacute;n&eacute;ration rapports depuis remont&eacute;s informations des concessions.<br>
+G&eacute;n&eacute;ration rapports depuis remont&eacute;es informations des concessions.<br>
 Assistance Sage, Office<br>
 </p></div>   
 <div class="tab-pane" id="Ixin"><p class="lead">Ixin<br><br>
@@ -187,12 +187,12 @@ Excel, Scripting en c#, Activation mails via Webmail<br>
 </p></div>   
 <div class="tab-pane" id="Fnac"><p class="lead">Fnac<br><br>
 Gestion logiciel Sav sous DOS<br>
-Plannification intervention sur site<br>
+Planification interventions sur site<br>
 Hotline, Support mat&eacute;riel, p&eacute;riode Noel/Soldes<br>
 </p>     </div>   
 <div class="tab-pane" id="T2AConseil"><p class="lead">T2A Conseil<br><br>
 Gestion du support fonctionnel<br>
-Mises &agrave; jours base des tarifications<br>
+Mises &agrave; jour base des tarifications<br>
 Gestion du r&eacute;seau local<br>
 Int&eacute;gration d&rsquo;un serveur local d'acc&egrave;s &agrave; distance<br></p>     </div>   
 <div class="tab-pane" id="BAT"><p class="lead">British American Tobacco<br><br>
@@ -253,7 +253,7 @@ Recherche
 <div class="accordion-inner span12">
 <br>
 <p class="lead"><button class="btn btn-link"><a href="http://www.reverse-engineering.fr" target="_blank">reverse-engineering.fr</button></a>
-<button class="btn" id="mybtn" data-loading-text="Check">Unset</button>
+<button class="btn" id="mybtn" data-loading-text="Check"> Down</button>
 </p>
 
 
