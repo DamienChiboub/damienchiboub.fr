@@ -213,7 +213,7 @@ Stages
 <div class="tab-pane active" id="Telemecanique">
 <p class="lead">T&eacute;l&eacute;m&eacute;canique<br> Rueil Malmaison<br><br>
 Stage en informatique d&eacute;couverte du monde professionnel<br>
-gestion des mises &agrave; jours, support de proximit&eacute; utilisateurs<br>
+gestion des mises &agrave; jour, support de proximit&eacute; utilisateurs<br>
 </p></div>
 <div class="tab-pane" id="Schneider">
 <p class="lead">Schneider Electric<br> Rueil Malmaison <br><br>
@@ -258,7 +258,7 @@ Autre
 <div id="Autre" class="accordion-body collapse">
 <div class="accordion-inner">
 <p class="lead">
-Divers travails saisonniers, service voirie, jardin, batiment<br>
+Travaux saisonniers, service voirie, jardin, b&acirc;timent, informatique<br>
 </p>
 
 </div>
