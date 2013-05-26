@@ -1,32 +1,35 @@
 <?php 
-        $metaup="2013-05-21 Tuesday 18:50:00";
+        $metaup="2013-05-26 Sunday 22:00:00";
         $today = date("{ H:i:s : d/M/Y }");
-	$update = "{ 18:50:00 : 21/May/2013 }";
+	$update = "{ 22:00:00 : 26/May/2013 }";
 
-        $worknum = Rand(1,7); 
+        $worknum = Rand(1,8); 
 	switch ($worknum)
 	{
 			
 		case 1:
-			$work= " se sert de Github";
+			$work= " se sert de <a href='https://github.com' target='_blank'>Github</a>";
 			break;
 		case 2:
-			$work= " utilise le moteur de rendu Twig";
+			$work= " utilise le moteur de rendu <a href='http://twig.sensiolabs.org' target='_blank'>Twig</a>";
 			break;
 		case 3:
-			$work= " int&egrave;gre le front-end Bootstrap";
+			$work= " int&egrave;gre le front-end <a href='http://twitter.github.io/bootstrap' target='_blank'>Bootstrap</a>";
 			break;
 		case 4:
-			$work= " apprend le d&eacute;veloppement MVC ";
+			$work= " apprend le d&eacute;veloppement <a href='http://fr.wikipedia.org/wiki/MVC' target='_blank'>MVC</a>";
 			break;
 		case 5:
-			$work= " &eacute;tudie le framework Symfony";
+			$work= " &eacute;tudie le framework <a href='http://symfony.com' target='_blank'>Symfony</a>";
 			break;
 		case 6:
-			$work= " mod&eacute;lise les donn&eacute;es avec Doctrine";
+			$work= " mod&eacute;lise les donn&eacute;es avec <a href='http://www.doctrine-project.org' target='_blank'>Doctrine</a>";
 			break;
                case 7;
                         $work=" g&egrave;re des services partag&eacute;s ou d&eacute;di&eacute;s"; 
+                         break;
+               case 8;
+                        $work=" recommande l&rsquo;<a href='http://opensource.org' target='_blank'>Open Source</a>"; 
                          break;
 
            }
@@ -104,4 +107,4 @@
 
 }	
 	?>
-						
+							
