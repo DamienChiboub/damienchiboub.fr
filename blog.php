@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="content-language" content="fr">
-<meta name="keywords" content="damienchiboub.fr a propos de damien chiboub chiboub damien chiboubdamien fnac facebook linkedin viadeo">
+<meta name="keywords" content="damienchiboub.fr blog de damien chiboub chiboub damien chiboubdamien fnac facebook linkedin viadeo">
 <meta name="date" content="<?php include '_vars.php'; echo $metaup;?>">
 <meta name="robots" content="index, follow, archive">
-<title>A propos du site de Damien Chiboub | damienchiboub.fr</title>
-<meta name="description" content="A propos du site de Damien Chiboub, Outils, Pourquoi ce site - damienchiboub.fr>
+<title>Blog de Damien Chiboub | damienchiboub.fr</title>
+<meta name="description" content="Visitez le Blog de Damien Chiboub, Evenements, Salons, Conferences, Actualites - damienchiboub.fr">
 <meta name="author" content="Damien Chiboub">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -18,13 +18,18 @@
 <link href="css/adds.css" rel="stylesheet">
 <link href="css/bootstrap-responsive.css" rel="stylesheet">
 
-
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
 <!-- Fav and touch icons -->
 <link href="img/fav/favicon.ico" rel="shortcut icon" type="image/x-icon">
 </head>
 
 <body>
+
+
 
 <div class="container-narrow">
 
@@ -63,12 +68,12 @@
 </ul>
 </li>
 
-<li class="dropdown">
+<li class="dropdown active">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">2.0<b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li><a href="http://www.damienchiboub.fr/images">Images</a></li>
 <li><a href="http://www.damienchiboub.fr/videos">Videos</a></li>
-<li><a href="http://www.damienchiboub.fr/blog">Blog</a></li>
+<li class="active"><a href="http://www.damienchiboub.fr/blog">Blog</a></li>
 <li><a href="http://www.damienchiboub.fr/liens-web">Liens Web</a></li>
 </ul>
 <li><a href="http://www.damienchiboub.fr/contact"><i class="icon-envelope"></i></a></li>	
@@ -105,18 +110,19 @@
 <div class="jumbotron">
 
 <ul class="span2 nav nav-tabs nav-stacked">
-              <li><a class="accordion-toggle" data-toggle="collapse" href="#Outils">Outils<i class="icon-chevron-right pull-right"></i></a></li>
-              <li><a class="accordion-toggle" data-toggle="collapse" href="#Pourquoi">Pourquoi<i class="icon-chevron-right pull-right"></i></a></li>
+              <li><a class="accordion-toggle" data-toggle="collapse" href="#Blog">Blog<i class="icon-chevron-right pull-right"></i></a></li>
             </ul>
         </ul>
 
 
-
 <div class="span5">
 <div class="hero-unit">
-<p class="text"><h1>A propos</h1></p><br></div>
+<p class="text"><h1>Blog</h1>
+<p class="text">En cours de d&eacute;veloppement</p></div>
 <p class="lead"><br><br></p>
 </div>
+
+
 
 <div class="row-fluid marketing">
 
@@ -133,61 +139,20 @@
 
 <div class="accordion-group">
 <div class="accordion-heading">
-<a class="accordion-toggle" data-toggle="collapse" href="#Outils">
-Outils
+<a class="accordion-toggle" data-toggle="collapse" href="#Blog">
+Blog
 </a>
 </div>
-<div id="Outils" class="accordion-body collapse">
-<div class="accordion-inner">
-
-<p class="lead">
-Statut : Stand-by avant refonte <br>
-Cr&eacute;ation : 10 Novembre 2012 <br>
-Inactif : Blog, Recheche <br>
-Propri&eacute;taire : <a rel="popover" title="Damien Chiboub" data-img="img/section-lifestyle_Damienchiboub.png" data-original-title="">Damien Chiboub</a><br>
-
-
-<br><br>
-
-
-Site web d&eacute;velopp&eacute; avec le front-end <a href="#Bootstrap" onclick="window.open('http://twitter.github.com/bootstrap/', 'Bootstrap', 'scrollbars=yes,width=640,height=500,left=480')">Bootstrap</a><br>
-Rendu optimis&eacute; pour <a href="#WebKit-Based" onclick="window.open('http://en.wikipedia.org/wiki/List_of_web_browsers#WebKit-based', 'WebKit-Based', 'scrollbars=yes,width=640,height=500,left=480')"<a href="#WebKit-Based" id="WebKit-tooltip" data-original-title="WebKit-Based Brownser List">WebKit</a></a><br>
-Hebergement : Soci&eacute;t&eacute; <a href="http://www.ovh.com/fr/apropos/mentions_legales.xml" target="_blank">OVH</a> SAS<br>
-2 rue Kellermann 59100 Roubaix - France<br><br>
-
-
-
-
-</div>
-</div>
-</div>
-
-
-<div class="accordion-group">
-<div class="accordion-heading">
-<a class="accordion-toggle" data-toggle="collapse" href="#Pourquoi">
-Pourquoi ce site
-</a>
-</div>
-<div id="Pourquoi" class="accordion-body collapse">
+<div id="Blog" class="accordion-body collapse">
 <div class="accordion-inner">
 <p class="lead">
-Pour le fun, l&apos;open source <a href="#OpenSource" onclick="window.open('http://opensource.org/', 'OpenSource', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://opensource.org/files/garland_favicon.png"></a><br>
-Pour tester <a href="#Bootstrap" onclick="window.open('http://twitter.github.com/bootstrap/', 'Bootstrap', 'scrollbars=yes,width=640,height=500,left=480')">Bootstrap</a>, avant de passer sur <a href="#Symfony" onClick="window.open('https://connect.sensiolabs.com/profile/dvi-', 'Symfony', 'scrollbars=yes,width=540,height=500,left=480')">Symfony</a><br>
-Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Desktop/Tablette/Smartphone<br><br>
-
-
-
-<div class="input-prepend">
-<a href="#MyGithubProject" onclick="window.open('https://github.com/DamienChiboub/damienchiboub.fr', 'MyGithubProject', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://www.damienchiboub.fr/img/Octocat.png" <a href="#" id="Github-tooltip" data-original-title="My Github Project"> /></a></a>
-<a href="#MyCreativeLicense" onclick="window.open('http://creativecommons.org/licenses/by-sa/3.0/fr/', 'MyCreativeLicense', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" <a href="#" id="License-tooltip" data-original-title="Creative Common License"> /></a></a><br>
-</div></input></p>
-
-
-</p> 
+Symfony required
+</p>
 </div>
 </div>
 </div>
+
+
 
 
 
@@ -224,18 +189,19 @@ Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Des
 /
 <a href="http://www.damienchiboub.fr/sitemap.php">Sitemap</a>
 /
-<a rel="fpopover" data-img="/img/footer/github.com.png" title="Github.com"<a href="http://www.github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/twitter.com.png" title="Twitter.com"<a href="http://www.twitter.com/Damien_Chiboub" target="_blank"><img src="/img/fav/twitter_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/gravatar.com.png" title="Gravatar.com"<a href="http://en.gravatar.com/DamienChiboub" target="_blank"><img src="/img/fav/gravatar_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/facebook.com.png" title="Facebook.com"<a href="http://www.facebook.com/Damien.Chiboub" target="_blank"><img src="/img/fav/facebook_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/instagram.com.png" data-original-title="Instagram.com"<a href="http://www.instagram.com/DamienChiboub" target="_blank"><img src="/img/fav/instagram_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/worketer.com.png" data-original-title="Worketer.com"<a href="http://www.worketer.com/DamienChiboub" target="_blank"><img src="/img/fav/worketer_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/pinterest.com.png" data-original-title="Pinterest.com"<a href="http://www.pinterest.com/DamienChiboub" target="_blank"><img src="/img/fav/pinterest_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/sensiolabs.com.png" data-original-title="Sensiolabs.com"<a href="http://connect.sensiolabs.com/profile/dvi-" target="_blank"><img src="/img/fav/sensiolabs_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/viadeo.com.png" data-original-title="Viadeo.com"<a href="http://www.viadeo.com/fr/profile/Damien.Chiboub" target="_blank"><img src="/img/fav/viadeo_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
-<a rel="fpopover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="https://github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/twitter.com.png" title="Twitter.com"<a href="http://www.twitter.com/Damien_Chiboub" target="_blank"><img src="/img/fav/twitter_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/gravatar.com.png" title="Gravatar.com"<a href="http://en.gravatar.com/DamienChiboub" target="_blank"><img src="/img/fav/gravatar_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/facebook.com.png" title="Facebook.com"<a href="http://www.facebook.com/Damien.Chiboub" target="_blank"><img src="/img/fav/facebook_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/instagram.com.png" data-original-title="Instagram.com"<a href="http://www.instagram.com/DamienChiboub" target="_blank"><img src="/img/fav/instagram_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/worketer.com.png" data-original-title="Worketer.com"<a href="http://www.worketer.com/DamienChiboub" target="_blank"><img src="/img/fav/worketer_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/pinterest.com.png" data-original-title="Pinterest.com"<a href="http://www.pinterest.com/DamienChiboub" target="_blank"><img src="/img/fav/pinterest_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/sensiolabs.com.png" data-original-title="Sensiolabs.com"<a href="http://connect.sensiolabs.com/profile/dvi-" target="_blank"><img src="/img/fav/sensiolabs_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/viadeo.com.png" data-original-title="Viadeo.com"<a href="http://www.viadeo.com/fr/profile/Damien.Chiboub" target="_blank"><img src="/img/fav/viadeo_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/vizify.com.png" data-original-title="Vizify.com"<a href="https://www.vizify.com/damien-chiboub" target="_blank"><img src="/img/fav/vizify_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
@@ -257,23 +223,9 @@ Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Des
 $('a[rel=popover]').popover({
   html: true,
   trigger: 'hover',
-  placement: 'right',
-  content: function(){return '<img src="'+$(this).data('img') + '" />';}
-});
-
-$('a[rel=fpopover]').popover({
-  html: true,
-  trigger: 'hover',
   placement: 'top',
   content: function(){return '<img src="'+$(this).data('img') + '" />';}
 });
-
-
-
-$("#WebKit-tooltip").tooltip({'offset': '10', 'placement': 'right'});
-$("#Github-tooltip").tooltip({'offset': '10', 'placement': 'top'});
-$("#License-tooltip").tooltip({'offset': '10', 'placement': 'top'});
-
 
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-36258258-1']);
@@ -288,4 +240,4 @@ _gaq.push(['_trackPageview']);
 </script>
 
 </body>
-</html>								
+</html>						
