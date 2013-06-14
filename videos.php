@@ -144,7 +144,25 @@ Videos
 </div>
 <div id="Videos" class="accordion-body collapse">
 <div class="accordion-inner">
+
+
+<div class="tabbable">
+              <ul class="nav nav-tabs">
+   <li class="active"><a href="#Snow" data-toggle="tab">Snow</a></li>
+    <li><a href="#" data-toggle="tab"></a></li>          
+</ul>
+                 <div class="tab-content">
+                <div class="tab-pane active" id="Snow">
+
 <iframe src="https://www.facebook.com/video/embed?video_id=413286762099405" width="720" height="540" frameborder="0"></iframe>
+                </div>
+                <div class="tab-pane" id="">
+
+               </div>
+               </div>
+            </div>
+
+
 
 </div>
 </div>
@@ -187,7 +205,7 @@ Videos
 /
 <a href="http://www.damienchiboub.fr/sitemap.php">Sitemap</a>
 /
-<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="http://www.github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="https://github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/twitter.com.png" title="Twitter.com"<a href="http://www.twitter.com/Damien_Chiboub" target="_blank"><img src="/img/fav/twitter_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/gravatar.com.png" title="Gravatar.com"<a href="http://en.gravatar.com/DamienChiboub" target="_blank"><img src="/img/fav/gravatar_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/facebook.com.png" title="Facebook.com"<a href="http://www.facebook.com/Damien.Chiboub" target="_blank"><img src="/img/fav/facebook_favicon.png"></a></a>
@@ -199,6 +217,7 @@ Videos
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/vizify.com.png" data-original-title="Vizify.com"<a href="https://www.vizify.com/damien-chiboub" target="_blank"><img src="/img/fav/vizify_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
@@ -237,4 +256,4 @@ _gaq.push(['_trackPageview']);
 </script>
 
 </body>
-</html>						
+</html>							
