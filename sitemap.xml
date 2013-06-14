@@ -1,70 +1,70 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 <url>
 <loc>http://www.damienchiboub.fr</loc>
-<lastmod>2013-05-27T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/sitemap.xml</loc>
-<lastmod>2013-05-27T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/sitemap.txt</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/lifestyle</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/informations</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/parcours</loc>
-<lastmod>2013-05-26T22:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/professionnel</loc>
-<lastmod>2013-05-26T22:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/sport</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/informatique</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/etats-unis</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -79,35 +79,35 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/videos</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/blog</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/liens-web</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/contact</loc>
-<lastmod>2013-05-20T00:10:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/about</loc>
-<lastmod>2013-05-21T18:50:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -115,21 +115,21 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/logs</loc>
-<lastmod>2013-05-20T00:05:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/sitemap.php</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/500</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -137,14 +137,14 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/404</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/403</loc>
-<lastmod>2013-05-20T00:00:00+00:00</lastmod>
+<lastmod>2013-06-14T22:00:00+00:00</lastmod>
 <changefreq>Monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -279,6 +279,15 @@
 <url>
 <loc>http://www.damienchiboub.fr</loc>
 <image:image>
+<image:loc>http://www.damienchiboub.fr/img/fav/vizify_favicon.png</image:loc>
+<image:title>Favicon Vizify.com du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Favicon Vizify.com du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
 <image:loc>http://www.damienchiboub.fr/img/footer/linkedin.com.png</image:loc>
 <image:title>Image Linkedin du site de Damien Chiboub - damienchiboub.fr</image:title>
 <image:caption>Image Linkedin du site de Damien Chiboub - damienchiboub.fr</image:caption>
@@ -387,6 +396,15 @@
 <url>
 <loc>http://www.damienchiboub.fr</loc>
 <image:image>
+<image:loc>http://www.damienchiboub.fr/img/footer/vizify.com.png</image:loc>
+<image:title>Image Vizify.com du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Vizify.com du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
 <image:loc>http://www.damienchiboub.fr/img/section-videos.jpg</image:loc>
 <image:title>Section videos du site de Damien Chiboub - damienchiboub.fr</image:title>
 <image:caption>Section Videos du site de Damien Chiboub - damienchiboub.fr</image:caption>
@@ -468,5 +486,13 @@
 </image:image>
 </url>
 
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/opensource_pic.png</image:loc>
+<image:title>Image Open Source Initiative du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image Open Source Initiative de la partie About du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
 
 </urlset>  
