@@ -235,6 +235,7 @@ Projet en stand-by
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/vizify.com.png" data-original-title="Vizify.com"<a href="https://www.vizify.com/damien-chiboub" target="_blank"><img src="/img/fav/vizify_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
