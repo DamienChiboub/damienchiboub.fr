@@ -34,6 +34,7 @@ http://www.damienchiboub.fr/img/fav/viadeo_favicon.png
 http://www.damienchiboub.fr/img/fav/google-plus_favicon.png
 http://www.damienchiboub.fr/img/fav/linkedin_favicon.png
 http://www.damienchiboub.fr/img/fav/about-me_favicon.png
+http://www.damienchiboub.fr/img/fav/vizify_favicon.png
 http://www.damienchiboub.fr/img/footer/github.com.png
 http://www.damienchiboub.fr/img/footer/twitter.com.png
 http://www.damienchiboub.fr/img/footer/gravatar.com.png
@@ -46,6 +47,7 @@ http://www.damienchiboub.fr/img/footer/viadeo.com.png
 http://www.damienchiboub.fr/img/footer/plus.google.com.png
 http://www.damienchiboub.fr/img/footer/linkedin.com.png
 http://www.damienchiboub.fr/img/footer/about-me.com.png
+http://www.damienchiboub.fr/img/footer/vizify.com.png
 http://www.damienchiboub.fr/img/damienchiboub.qr.png
 http://www.damienchiboub.fr/img/contact-form.png
 http://www.damienchiboub.fr/img/section-lifestyle_damien-chiboub-cooking.jpg
@@ -53,3 +55,4 @@ http://www.damienchiboub.fr/img/section-lifestyle_damien-chiboub-burger.jpg
 http://www.damienchiboub.fr/img/section-lifestyle_damien-chiboub.jpg
 http://www.damienchiboub.fr/img/projet-sport-damien-chiboub.jpg
 http://www.damienchiboub.fr/img/Octocat.png
+http://www.damienchiboub.fr/img/opensource_pic.png
