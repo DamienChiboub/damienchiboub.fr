@@ -147,7 +147,7 @@ Outils
 Statut : Stand-by avant refonte <br>
 Cr&eacute;ation : 10 Novembre 2012 <br>
 Inactif : Blog, Recheche <br>
-Propri&eacute;taire : <a rel="popover" title="Damien Chiboub" data-img="img/section-lifestyle_Damienchiboub.png" data-original-title="">Damien Chiboub</a><br>
+Propri&eacute;taire : <a rel="fpopover" title="Damien Chiboub" data-img="img/section-lifestyle_Damienchiboub.png" data-original-title="">Damien Chiboub</a><br>
 
 
 <br><br>
@@ -175,7 +175,7 @@ Pourquoi ce site
 <div id="Pourquoi" class="accordion-body collapse">
 <div class="accordion-inner">
 <p class="lead">
-Pour le fun, l&apos;open source <a href="#OpenSource" onclick="window.open('http://opensource.org/', 'OpenSource', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://opensource.org/files/garland_favicon.png"></a><br>
+Pour le fun, l&apos;open source <a href="#OpenSource" onclick="window.open('http://opensource.org/affiliates', 'OpenSource', 'scrollbars=yes,width=640,height=500,left=480')"><img src="http://www.damienchiboub.fr/img/opensource_pic.png"></a><br>
 Pour tester <a href="#Bootstrap" onclick="window.open('http://twitter.github.com/bootstrap/', 'Bootstrap', 'scrollbars=yes,width=640,height=500,left=480')">Bootstrap</a>, avant de passer sur <a href="#Symfony" onClick="window.open('https://connect.sensiolabs.com/profile/dvi-', 'Symfony', 'scrollbars=yes,width=540,height=500,left=480')">Symfony</a><br>
 Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Desktop/Tablette/Smartphone<br><br>
 
@@ -227,7 +227,7 @@ Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Des
 /
 <a href="http://www.damienchiboub.fr/sitemap.php">Sitemap</a>
 /
-<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="http://www.github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="https://github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/twitter.com.png" title="Twitter.com"<a href="http://www.twitter.com/Damien_Chiboub" target="_blank"><img src="/img/fav/twitter_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/gravatar.com.png" title="Gravatar.com"<a href="http://en.gravatar.com/DamienChiboub" target="_blank"><img src="/img/fav/gravatar_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/facebook.com.png" title="Facebook.com"<a href="http://www.facebook.com/Damien.Chiboub" target="_blank"><img src="/img/fav/facebook_favicon.png"></a></a>
@@ -238,7 +238,8 @@ Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Des
 <a rel="popover" data-img="/img/footer/viadeo.com.png" data-original-title="Viadeo.com"<a href="http://www.viadeo.com/fr/profile/Damien.Chiboub" target="_blank"><img src="/img/fav/viadeo_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
-<a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me" <a="" href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a>
+<a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/vizify.com.png" data-original-title="Vizify.com"<a href="https://www.vizify.com/damien-chiboub" target="_blank"><img src="/img/fav/vizify_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
@@ -260,18 +261,16 @@ Pour essayer de travailler sur l&rsquo;int&eacute;rop&eacute;rabilit&eacute; Des
 $('a[rel=popover]').popover({
   html: true,
   trigger: 'hover',
-  placement: 'right',
+  placement: 'top',
   content: function(){return '<img src="'+$(this).data('img') + '" />';}
 });
 
 $('a[rel=fpopover]').popover({
   html: true,
   trigger: 'hover',
-  placement: 'top',
+  placement: 'right',
   content: function(){return '<img src="'+$(this).data('img') + '" />';}
 });
-
-
 
 $("#WebKit-tooltip").tooltip({'offset': '10', 'placement': 'right'});
 $("#Github-tooltip").tooltip({'offset': '10', 'placement': 'top'});
