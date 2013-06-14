@@ -218,7 +218,7 @@ Skills
                 Tests, d&eacute;tection, &eacute;valuation<br>
                 Analyse & identifications vecteurs de menaces<br>
                 Conf&eacute;rences, Clusif, Ossir, Hackitoergosum, Techdays<br>
-                Ethical hacking, White hat Contribution, Responsible Disclosure @ <a target="_blank" href="http://www.reverse-engineering.fr">reverse-engineering.fr</a><br>
+                Ethical hacking, Responsible Disclosure @ <a target="_blank" href="http://www.reverse-engineering.fr">reverse-engineering.fr</a><br>
                 </p>
                 </div>
                 <div class="tab-pane" id="Ressources">
@@ -264,7 +264,7 @@ Int&eacute;r&ecirc;ts
 <div class="accordion-inner">
 <p class="lead">
 
-<a href="#" onClick="window.open('http://fr.wikipedia.org/wiki/Big_Apple', 'Big_Apple', 'scrollbars=yes,width=640,height=500,left=480')">&#63743;</a><br>
+<a href="#" onClick="window.open('http://fr.wikipedia.org/wiki/Big_Apple', 'Big_Apple', 'scrollbars=yes,width=640,height=500,left=480')">Manhattan</a><br>
 <a href="#" onClick="window.open('http://fr.wikipedia.org/wiki/Krav_maga', 'Krav_maga', 'scrollbars=yes,width=640,height=500,left=480')">Krav-maga</a><br>
 <a href="#" onClick="window.open('https://plus.google.com/photos/110705607218372468993/albums/5816682073558026433', 'Snowboard', 'scrollbars=yes,width=640,height=500,left=480')">Snowboard</a><br>
 <a href="#" onClick="window.open('http://www.reverse-engineering.fr', 'reverse-engineering', 'scrollbars=yes,width=640,height=500,left=480')">Reverse Engineering</a><br>
@@ -303,7 +303,7 @@ Int&eacute;r&ecirc;ts
 /
 <a href="http://www.damienchiboub.fr/sitemap.php">Sitemap</a>
 /
-<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="http://www.github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="https://github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/twitter.com.png" title="Twitter.com"<a href="http://www.twitter.com/Damien_Chiboub" target="_blank"><img src="/img/fav/twitter_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/gravatar.com.png" title="Gravatar.com"<a href="http://en.gravatar.com/DamienChiboub" target="_blank"><img src="/img/fav/gravatar_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/facebook.com.png" title="Facebook.com"<a href="http://www.facebook.com/Damien.Chiboub" target="_blank"><img src="/img/fav/facebook_favicon.png"></a></a>
@@ -315,6 +315,7 @@ Int&eacute;r&ecirc;ts
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/vizify.com.png" data-original-title="Vizify.com"<a href="https://www.vizify.com/damien-chiboub" target="_blank"><img src="/img/fav/vizify_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
