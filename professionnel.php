@@ -161,7 +161,7 @@ Entreprises
 </ul>
 <div class="tab-content">
 <div class="tab-pane active" id="LeRss">
-<p class="lead">Le R&eacute;seau Sant&eacute; Social<br><br> Fournisseur d'acc&egrave;s pour professionnels de sant&eacute;<br>
+<p class="lead">Le R&eacute;seau Sant&eacute; Social<br><br> Fournisseur d&rsquo;acc&egrave;s pour professionnels de sant&eacute;<br>
 Gestion des incidents ADSL/RTC<br>
 connexion, routage, escalade GAMMOT<br>
 Applicatifs m&eacute;tiers</p></div>
@@ -176,7 +176,7 @@ G&eacute;n&eacute;ration rapports depuis remont&eacute;es informations des conce
 Assistance Sage, Office<br>
 </p></div>   
 <div class="tab-pane" id="Ixin"><p class="lead">Ixin<br><br>
-Logiciel d'optimisation de processus<br>
+Logiciel d&rsquo;optimisation de processus<br>
 Configuration depuis <a href="#Cdc-tooltip" onclick="window.open('https://fr.wikipedia.org/wiki/Cahier_des_charges', 'Cdc-tooltip', 'scrollbars=yes,width=640,height=500,left=480')" <a="" id="Cdc-tooltip" data-original-title="Cahier des charges">Cdc</a><br>
 V&eacute;rification des droits via acc&egrave;s web<br>
 Assistance utilisateurs<br></p></div>   
@@ -194,7 +194,7 @@ Hotline, Support mat&eacute;riel, p&eacute;riode Noel/Soldes<br>
 Gestion du support fonctionnel<br>
 Mises &agrave; jour base des tarifications<br>
 Gestion du r&eacute;seau local<br>
-Int&eacute;gration d&rsquo;un serveur local d'acc&egrave;s &agrave; distance<br></p>     </div>   
+Int&eacute;gration d&rsquo;un serveur local d&rsquo;acc&egrave;s &agrave; distance<br></p>     </div>   
 <div class="tab-pane" id="BAT"><p class="lead">British American Tobacco<br><br>
 Gestion support si&egrave;ges/terrain (100/250) users <br>
 Environnement international, gestion salles<br>
@@ -253,7 +253,7 @@ Recherche
 <div class="accordion-inner span12">
 <br>
 <p class="lead"><button class="btn btn-link"><a href="http://www.reverse-engineering.fr" target="_blank">reverse-engineering.fr</button></a>
-<button class="btn" id="mybtn" data-loading-text="Check"> Down</button>
+<button class="btn" id="mybtn" data-loading-text="Check"> Unset</button>
 </p>
 
 
@@ -294,7 +294,7 @@ Recherche
 /
 <a href="http://www.damienchiboub.fr/sitemap.php">Sitemap</a>
 /
-<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="http://www.github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/github.com.png" title="Github.com"<a href="https://github.com/DamienChiboub" target="_blank"><img src="/img/fav/github_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/twitter.com.png" title="Twitter.com"<a href="http://www.twitter.com/Damien_Chiboub" target="_blank"><img src="/img/fav/twitter_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/gravatar.com.png" title="Gravatar.com"<a href="http://en.gravatar.com/DamienChiboub" target="_blank"><img src="/img/fav/gravatar_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/facebook.com.png" title="Facebook.com"<a href="http://www.facebook.com/Damien.Chiboub" target="_blank"><img src="/img/fav/facebook_favicon.png"></a></a>
@@ -306,6 +306,7 @@ Recherche
 <a rel="popover" data-img="/img/footer/plus.google.com.png" data-original-title="Plus.google.com"<a href="http://plus.google.com/110705607218372468993" target="_blank"><img src="/img/fav/google-plus_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/linkedin.com.png" data-original-title="Linkedin.com"<a href="http://www.linkedin.com/in/DamienChiboub" target="_blank"><img src="/img/fav/linkedin_favicon.png"></a></a>
 <a rel="popover" data-img="/img/footer/about-me.com.png" data-original-title="About.me"<a href="http://about.me/DamienChiboub" target="_blank"><img src="/img/fav/about-me_favicon.png"></a></a>
+<a rel="popover" data-img="/img/footer/vizify.com.png" data-original-title="Vizify.com"<a href="https://www.vizify.com/damien-chiboub" target="_blank"><img src="/img/fav/vizify_favicon.png"></a></a>
 
 <a href="#"><i class="pull-right icon-circle-arrow-up"></i>
 <!-- Placed at the end of the document so the pages load faster -->
