@@ -1,7 +1,7 @@
 <?php 
-        $metaup="2013-05-27 Sunday 00:00:00";
+        $metaup="2013-06-14 Friday 22:00:00";
         $today = date("{ H:i:s : d/M/Y }");
-	$update = "{ 00:00:00 : 27/May/2013 }";
+	$update = "{ 22:00:00 : 14/Jun/2013 }";
 
         $worknum = Rand(1,8); 
 	switch ($worknum)
@@ -39,13 +39,13 @@
 	{
 			
 		case 1:
-			$a= " <a href='http://www.damienchiboub.fr'>Contributeur</a> en s&eacute;curit&eacute; informatique"; 
+			$a= " <a href='http://www.damienchiboub.fr'>Computer</a> Security Contributor"; 
 			break;
 		case 2:
-			$a= "<a href='http://www.damienchiboub.fr'>Vulns</a> tracker";
+			$a= "<a href='http://www.damienchiboub.fr'>Vulns</a> Finder";
 			break;
 		case 3:
-			$a= "Propri&eacute;taire de <a href='http://www.reverse-engineering.fr' target='_blank'>reverse-engineering.fr</a>";
+			$a= "<a href='http://www.reverse-engineering.fr' target='_blank'>reverse-engineering.fr</a> Owner";
 			break;
 		case 4:
 			$a= "<a href='http://www.damienchiboub.fr'>IT</a> Support";
@@ -54,17 +54,17 @@
 			$a= "<a href='http://www.damienchiboub.fr'>Junior</a> OOP Learner";
 			break;
 		case 6:
-			$a= "<a href='http://www.damienchiboub.fr'>Web</a> Developer";
+			$a= "<a href='http://www.damienchiboub.fr'>Junior</a> Web Developer";
 			break;
 		case 7:
-			$a= "<a href='http://www.damienchiboub.fr'>&#63743;</a> User";
+			$a= "<a href='http://www.damienchiboub.fr'>Unix</a> User";
 			break;
                 case 8:
-			$a= "<a href='http://www.damienchiboub.fr'>Consultant</a> en syst&egrave;mes d&rsquo;informations ";
+			$a= "<a href='http://www.damienchiboub.fr'>System</a> Information Consultant";
 			break;
 	}
 
-       $lienweb = Rand(1,12);
+       $lienweb = Rand(1,13);
 	switch ($lienweb)
 	{
 			
@@ -103,6 +103,9 @@
 			break;
                 case 12:
 			$b="<a href='http://worketer.com/DamienChiboub' target='_blank'>Worketer.com</a>";
+			break;
+                 case 13:
+			$b="<a href='https://www.vizify.com/damien-chiboub' target='_blank'>Vizify.com</a>";
 			break;
 
 }	
