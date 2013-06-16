@@ -168,6 +168,12 @@ Logs
               <tbody> 
                    <tr class="">
                   <tr class="info">
+                  <td>28</td>
+                  <td>16-06-2013</td> 
+                  <td>Video ><a href="http://www.damienchiboub.fr/videos"> Chat</a></td>
+                  <td>+Ajout</td>
+                   <tr class="">
+                  <tr class="info">
                   <td>27</td>
                   <td>14-06-2013</td> 
                   <td>Footer ><a href="http://www.damienchiboub.fr/logs#footer"> Vizify Web-Link</a></td>
@@ -230,7 +236,6 @@ Logs
                   <td>22-03-2013</td>
                   <td>Footer ><a href="http://www.damienchiboub.fr/logs#footer"> Web-Links</a></td>
                   <td>+Ajout</td>
-
                   <tr class="info">
                   <td>23</td>
                   <td>19-03-2013</td>
@@ -550,4 +555,4 @@ _gaq.push(['_trackPageview']);
 </script>
 
 </body>
-</html>																			
+</html>																				
