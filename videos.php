@@ -149,18 +149,18 @@ Videos
 <div class="tabbable">
               <ul class="nav nav-tabs">
    <li class="active"><a href="#Snow" data-toggle="tab">Snow</a></li>
-    <li><a href="#" data-toggle="tab"></a></li>          
+    <li><a href="#Chat" data-toggle="tab">Chat</a></li>          
 </ul>
                  <div class="tab-content">
                 <div class="tab-pane active" id="Snow">
 
 <iframe src="https://www.facebook.com/video/embed?video_id=413286762099405" width="720" height="540" frameborder="0"></iframe>
                 </div>
-                <div class="tab-pane" id="">
-
+                <div class="tab-pane" id="Chat">
+<iframe src="https://www.facebook.com/video/embed?video_id=468488709912543" width="720" height="540" frameborder="0"></iframe>
                </div>
                </div>
-            </div>
+               </div>
 
 
 
