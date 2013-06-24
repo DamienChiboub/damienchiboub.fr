@@ -33,6 +33,7 @@ http://www.damienchiboub.fr/img/fav/sensiolabs_favicon.png
 http://www.damienchiboub.fr/img/fav/viadeo_favicon.png
 http://www.damienchiboub.fr/img/fav/google-plus_favicon.png
 http://www.damienchiboub.fr/img/fav/linkedin_favicon.png
+http://www.damienchiboub.fr/img/fav/r-e.png
 http://www.damienchiboub.fr/img/fav/about-me_favicon.png
 http://www.damienchiboub.fr/img/fav/vizify_favicon.png
 http://www.damienchiboub.fr/img/footer/github.com.png
