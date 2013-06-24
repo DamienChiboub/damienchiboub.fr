@@ -8,7 +8,7 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/sitemap.xml</loc>
-<lastmod>2013-06-16T23:10:00+00:00</lastmod>
+<lastmod>2013-06-23T01:30:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -29,7 +29,7 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/informations</loc>
-<lastmod>2013-06-14T22:00:00+00:00</lastmod>
+<lastmod>2013-06-18T18:30:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -72,14 +72,14 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/images</loc>
-<lastmod>2013-03-22T16:00:00+00:00</lastmod>
+<lastmod>2013-06-20T22:00:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
 <loc>http://www.damienchiboub.fr/videos</loc>
-<lastmod>2013-06-16T23:10:00+00:00</lastmod>
+<lastmod>2013-06-23T01:30:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -100,7 +100,7 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/contact</loc>
-<lastmod>2013-06-14T22:00:00+00:00</lastmod>
+<lastmod>2013-06-19T21:15:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -115,7 +115,7 @@
 
 <url>
 <loc>http://www.damienchiboub.fr/logs</loc>
-<lastmod>2013-06-16T23:10:00+00:00</lastmod>
+<lastmod>2013-06-18T18:30:00+00:00</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -492,6 +492,15 @@
 <image:loc>http://www.damienchiboub.fr/img/opensource_pic.png</image:loc>
 <image:title>Image Open Source Initiative du site de Damien Chiboub - damienchiboub.fr</image:title>
 <image:caption>Image Open Source Initiative de la partie About du site de Damien Chiboub - damienchiboub.fr</image:caption>
+</image:image>
+</url>
+
+<url>
+<loc>http://www.damienchiboub.fr</loc>
+<image:image>
+<image:loc>http://www.damienchiboub.fr/img/r-e.png</image:loc>
+<image:title>Image de reverse-engineering.fr du site de Damien Chiboub - damienchiboub.fr</image:title>
+<image:caption>Image de reverse-engineering.fr de la partie Projets > Informatique du site de Damien Chiboub - damienchiboub.fr</image:caption>
 </image:image>
 </url>
 
