@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="content-language" content="fr">
 <meta name="keywords" content="damienchiboub.fr vie professionnelle de damien chiboub chiboub damien chiboubdamien fnac facebook linkedin viadeo">
-<meta name="date" content="<?php include '_vars.php'; echo $metaup;?>">
+<meta name="date" content="							2014-07-03 Thirsday 13:40:00">
 <meta name="robots" content="index, follow, archive">
 <title>Vie professionnelle de Damien Chiboub | damienchiboub.fr</title>
 <meta name="description" content="Vie Professionnel de Damien Chiboub, Entreprises, Technologies, Recherche - damienchiboub.fr">
@@ -100,8 +100,8 @@
 </div>
 
 <div class="span4">
-<span class="muted pull-right hidden-phone hidden-tablet"><i class="icon-time"> </i><?php include '_vars.php'; echo $today; ?></span><br>
-<span class="muted pull-right hidden-phone hidden-tablet"><i class="icon-refresh"> </i><?php include '_vars.php'; echo $update; ?></span>
+<span class="muted pull-right hidden-phone hidden-tablet"><i class="icon-time"> </i>							{ 13:51:48 : 03/Jul/2014 }</span><br>
+<span class="muted pull-right hidden-phone hidden-tablet"><i class="icon-refresh"> </i>							{ 13:40:00 : 03/Jul/2014 }</span>
 </div>
 </div>
 
@@ -158,6 +158,8 @@ Entreprises
 <li><a href="#Fnac" data-toggle="tab">Fnac</a></li>
 <li><a href="#T2AConseil" data-toggle="tab">T2A Conseil</a></li>
 <li><a href="#BAT" data-toggle="tab">BAT</a></li>
+<li><a href="#CALT" data-toggle="tab">Calt Production</a></li>
+<li><a href="#BestUnion" data-toggle="tab">Best Union</a></li>
 </ul>
 <div class="tab-content">
 <div class="tab-pane active" id="LeRss">
@@ -200,12 +202,24 @@ Gestion support si&egrave;ges/terrain (100/250) users <br>
 Environnement international, gestion salles<br>
 Partages, arrivants, applicatifs, backups<br>
 Flotte Blackberry/Samsung/Laptop, VOIP alcatel Omnivista</p>     </div>   
+
+<div class="tab-pane" id="CALT"><p class="lead">Calt Production - Robin&Co <br><br>
+Support Utilisateur Windows / Mac <br>
+Gestion Partages / Office / Encodage / Dvd Vid&eacute;o<br>
+Gestion du parc informatique en fin de vie<br>
+Remise en service de Xserv RAID Apple <br>
+Utilisation Tour RAID Promise - Lecteur LTO Cache-A<br>
+Brassage, Optimisation logicielle, D&eacute;montage/Nettoyage de postes<br></p>     </div>   
+
+<div class="tab-pane" id="BestUnion"><p class="lead">Best Union <br><br> D&eacute;ploiement, Homologation, Test Application de Facturation<br>
+D&eacute;ploiement sous Pyramide (Louvre).<br>Assistance Utilisateurs, Remont&eacute;s bugs.<br>
+Lecteurs de carte Wynid Wymix, Scanner Datalogic Heron D130/Memor
+Auto-It/Atlassian Jira/Office/Windows 7<br>
+<br><br>
+</p></div>
+
 </div>
 </div>
-
-
-
-
 </div>
 </div>
 </div>
