@@ -170,13 +170,13 @@ Formulaire
 	CONFIGURATION
 	********************************************************************************************
 */
-// destinataire est votre adresse mail. Pour envoyer ‡ plusieurs ‡ la fois, sÈparez-les par une virgule
+// destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par une virgule
 $destinataire = 'contact@damienchiboub.fr';
 
 // copie ? (envoie une copie au visiteur)
 $copie = 'oui';
 
-// Action du formulaire (si votre page a des paramËtres dans l'URL)
+// Action du formulaire (si votre page a des paramètres dans l'URL)
 // si cette page est index.php?page=contact alors mettez index.php?page=contact
 // sinon, laissez vide
 $form_action = '';
@@ -214,7 +214,7 @@ $message_formulaire_invalide = "<div class='alert alert-info'>
 */
 
 /*
- * cette fonction sert ‡ nettoyer et enregistrer un texte
+ * cette fonction sert à nettoyer et enregistrer un texte
  */
 function Rec($text)
 {
@@ -229,7 +229,7 @@ function Rec($text)
 };
 
 /*
- * Cette fonction sert ‡ vÈrifier la syntaxe d'un email
+ * Cette fonction sert à vérifier la syntaxe d'un email
  */
 function IsEmail($email)
 {
@@ -237,22 +237,22 @@ function IsEmail($email)
 	return (($value === 0) || ($value === false)) ? false : true;
 }
 
-// formulaire envoyÈ, on rÈcupËre tous les champs.
+// formulaire envoyé, on récupère tous les champs.
 $nom     = (isset($_POST['nom']))     ? Rec($_POST['nom'])     : '';
 $prenom     = (isset($_POST['prenom']))     ? Rec($_POST['prenom'])     : '';
 $email   = (isset($_POST['email']))   ? Rec($_POST['email'])   : '';
 $objet   = (isset($_POST['objet']))   ? Rec($_POST['objet'])   : '';
 $message = (isset($_POST['message'])) ? Rec($_POST['message']) : '';
 
-// On va vÈrifier les variables et l'email ...
-$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erronÈ, soit il vaut l'email entrÈ
+// On va vérifier les variables et l'email ...
+$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erroné, soit il vaut l'email entré
 $err_formulaire = false; // sert pour remplir le formulaire en cas d'erreur si besoin
 
 if (isset($_POST['envoi']))
 {
 	if (($nom != '') && ($prenom != '') && ($email != '') && ($objet != '') && ($message != ''))
 	{
-		// les 5 variables sont remplies, on gÈnËre puis envoie le mail
+		// les 5 variables sont remplies, on génère puis envoie le mail
 		$headers  = 'From:'.$nom.' <'.$email.'>' . "\r\n";
 		//$headers .= 'Reply-To: '.$email. "\r\n" ;
 		//$headers .= 'X-Mailer:PHP/'.phpversion();
@@ -267,7 +267,7 @@ if (isset($_POST['envoi']))
 			$cible = $destinataire;
 		};
 
-		// Remplacement de certains caractËres spÈciaux
+		// Remplacement de certains caractères spéciaux
 		$message = str_replace("&#039;","'",$message);
 		$message = str_replace("&#8217;","'",$message);
 		$message = str_replace("&quot;",'"',$message);
@@ -304,21 +304,21 @@ if (($err_formulaire) || (!isset($_POST['envoi'])))
 
 <div class="input-prepend">
   <span class="add-on"><a href="#Form" id="nom-tooltip" data-original-title="Nom"><i class="icon-asterisk"></i></a></span>
-  <input class="span3" type="text" id="nom" maxlength="15" name="nom" value="'.stripslashes($nom).'" tabindex="1" type="text" placeholder="Nom">
+  <input class="span3" type="text" id="nom" maxlength="15" name="nom" value="'.stripslashes($nom).'" tabindex="1" type="text" placeholder="Nom" required="required">
 </div></input></p>
 
 <div class="input-prepend">
   <span class="add-on"><a href="#Form" id="prenom-tooltip" data-original-title="Prenom"><i class="icon-asterisk"></i></a></span>
-  <input class="span3" type="text" id="prenom" maxlength="15" name="prenom" value="'.stripslashes($prenom).'" tabindex="2" type="text" placeholder="Prenom">
+  <input class="span3" type="text" id="prenom" maxlength="15" name="prenom" value="'.stripslashes($prenom).'" tabindex="2" type="text" placeholder="Prenom" required="required">
 </div></input></p>
 
 <div class="input-prepend">
   <span class="add-on"><a href="#Form" id="email-tooltip" data-original-title="email@domaine.tld"><i class="icon-envelope"></i></a></span>
-  <input class="span3" type="text" id="email" maxlength="35" name="email" value="'.stripslashes($email).'" tabindex="3" id="prependedInput" type="text" placeholder="email@domaine.tld">
+  <input class="span3" type="email" id="email" maxlength="35" name="email" value="'.stripslashes($email).'" tabindex="3" id="prependedInput" type="text" placeholder="email@domaine.tld" required="required">
 </div></input></p>
 
 <label for="objet">Objet :</label>
-<select name="objet" id="objet">
+<select name="objet" id="objet" required="required">
 <option selected="selected" value="'.stripslashes($objet).'" tabindex="4">
 <option value="Renseignement">Renseignement
 <option value="Proposition">Proposition
@@ -328,7 +328,7 @@ if (($err_formulaire) || (!isset($_POST['envoi'])))
 
 		
 
-		<p><label for="message">Message :</label><textarea id="message" placeholder="Votre message" name="message" tabindex="5" cols="30" rows="8">'.stripslashes($message).'</textarea></p>
+		<p><label for="message">Message : <p id="counter">320 characters remaining</p></label><textarea class="form-control counted" id="message" placeholder="Votre message" name="message" tabindex="5" cols="30" rows="8" maxlength="320" required="required">'.stripslashes($message).'</textarea></p>
 <button type="submit" name="envoi" class="btn btn-large" type="button">Envoyer</button>
 
 </p>
@@ -451,6 +451,103 @@ $('a[rel=popover]').popover({
   trigger: 'hover',
   placement: 'top',
   content: function(){return '<img src="'+$(this).data('img') + '" />';}
+});
+
+/**
+ *
+ * jquery.charcounter.js version 1.2
+ * requires jQuery version 1.2 or higher
+ * Copyright (c) 2007 Tom Deater (http://www.tomdeater.com)
+ * Licensed under the MIT License:
+ * http://www.opensource.org/licenses/mit-license.php
+ * 
+ */
+ 
+(function($) {
+    /**
+	 * attaches a character counter to each textarea element in the jQuery object
+	 * usage: $("#myTextArea").charCounter(max, settings);
+	 */
+	
+	$.fn.charCounter = function (max, settings) {
+		max = max || 100;
+		settings = $.extend({
+			container: "<span></span>",
+			classname: "charcounter",
+			format: "(%1 characters remaining)",
+			pulse: true,
+			delay: 0
+		}, settings);
+		var p, timeout;
+		
+		function count(el, container) {
+			el = $(el);
+			if (el.val().length > max) {
+			    el.val(el.val().substring(0, max));
+			    if (settings.pulse && !p) {
+			    	pulse(container, true);
+			    };
+			};
+			if (settings.delay > 0) {
+				if (timeout) {
+					window.clearTimeout(timeout);
+				}
+				timeout = window.setTimeout(function () {
+					container.html(settings.format.replace(/%1/, (max - el.val().length)));
+				}, settings.delay);
+			} else {
+				container.html(settings.format.replace(/%1/, (max - el.val().length)));
+			}
+		};
+		
+		function pulse(el, again) {
+			if (p) {
+				window.clearTimeout(p);
+				p = null;
+			};
+			el.animate({ opacity: 0.1 }, 100, function () {
+				$(this).animate({ opacity: 1.0 }, 100);
+			});
+			if (again) {
+				p = window.setTimeout(function () { pulse(el) }, 200);
+			};
+		};
+		
+		return this.each(function () {
+			var container;
+			if (!settings.container.match(/^<.+>$/)) {
+				// use existing element to hold counter message
+				container = $(settings.container);
+			} else {
+				// append element to hold counter message (clean up old element first)
+				$(this).next("." + settings.classname).remove();
+				container = $(settings.container)
+								.insertAfter(this)
+								.addClass(settings.classname);
+			}
+			$(this)
+				.unbind(".charCounter")
+				.bind("keydown.charCounter", function () { count(this, container); })
+				.bind("keypress.charCounter", function () { count(this, container); })
+				.bind("keyup.charCounter", function () { count(this, container); })
+				.bind("focus.charCounter", function () { count(this, container); })
+				.bind("mouseover.charCounter", function () { count(this, container); })
+				.bind("mouseout.charCounter", function () { count(this, container); })
+				.bind("paste.charCounter", function () { 
+					var me = this;
+					setTimeout(function () { count(me, container); }, 10);
+				});
+			if (this.addEventListener) {
+				this.addEventListener('input', function () { count(this, container); }, false);
+			};
+			count(this, container);
+		});
+	};
+
+})(jQuery);
+
+$(function() {
+    $(".counted").charCounter(320,{container: "#counter"});
 });
 
 var _gaq = _gaq || [];
